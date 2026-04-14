@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="{{htmlLang}}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {{{seoHead}}}
+    <link rel="stylesheet" href="{{assetsPrefix}}css/style.css">
+    {{{jsonLd}}}
+</head>
+<body>
+    <nav>
+        <a href="{{link.index}}">{{i18n.nav.home}}</a>
+        <a href="{{link.strelnice}}">{{i18n.nav.shootingRange}}</a>
+        <a href="{{link.zbrane}}">{{i18n.nav.weapons}}</a>
+        <a href="{{link.balicky}}">{{i18n.nav.packages}}</a>
+        <a href="{{link.faq}}">{{i18n.nav.faq}}</a>
+        <a href="{{link.zbrojni-prukaz}}">{{i18n.nav.gunLicense}}</a>
+        <a href="{{link.gdpr}}">{{i18n.nav.gdpr}}</a>
+        <span class="lang-switch">
+            <a href="{{langLink.cz}}">CZ</a>
+            <a href="{{langLink.en}}">EN</a>
+            <a href="{{langLink.de}}">DE</a>
+        </span>
+    </nav>
+
+    <main>
+        {{{body}}}
+    </main>
+
+    <footer>
+        <p>{{i18n.footer.company}}</p>
+        <p>{{i18n.footer.rangeAddress}} — {{i18n.footer.street}}, {{i18n.footer.rangeCity}}</p>
+        <p>{{i18n.footer.copyright}}</p>
+    </footer>
+
+    <script src="{{assetsPrefix}}js/main.js"></script>
+</body>
+</html>
