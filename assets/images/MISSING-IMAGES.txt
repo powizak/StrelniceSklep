@@ -1,0 +1,17 @@
+# Missing Images Report
+# Generated during bulk download from strelnicesklep.cz
+# 
+# No images were missing. All discovered image URLs returned valid image data.
+#
+# Notes:
+# - hero-5.png and hero-7.png are identical (same source URL on the website)
+# - weapon-02.jpg and weapon-10.jpg are identical (same source)
+# - weapon-07.jpg and weapon-16.jpg are identical (same source)
+# - package-specialni-jednotky and package-zbrane-policie-cr share the same default+hover images
+# - Many decorative icons across pages are duplicates of icon-target.png, icon-target-de.png,
+#   icon-target-en.png, and qr-code.png (these duplicates were removed)
+# - Package page has 6 decorative PNG icons that appear between sections:
+#   package-deco-icon-1.png (37061 bytes) and package-deco-icon-2.png (35677 bytes) are unique
+#   The other 4 were duplicates of the target icons and were removed
+# - FAQ page has 12 section icons: faq-icon-11.png and faq-icon-12.png are unique;
+#   the other 10 were duplicates of target/QR icons and were removed
