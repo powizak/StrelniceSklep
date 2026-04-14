@@ -1,0 +1,54 @@
+/* ==========================================================================
+   Střelnice Sklep — Design Tokens
+   ========================================================================== */
+
+:root {
+  /* Colors — Brand & Surfaces */
+  --color-primary: #e30613;
+  --color-primary-hover: #ff1a2a;
+  --color-primary-dark: #b91c1c;
+  --color-bg-dark: #1a1a1a;
+  --color-bg-darker: #111111;
+  --color-bg-medium: #2a2a2a;
+  --color-bg-card: #222222;
+  --color-bg-light: #f5f5f5;
+
+  /* Colors — Text */
+  --color-text: #ffffff;
+  --color-text-muted: #cccccc;
+  --color-text-dark: #333333;
+
+  /* Colors — Accents */
+  --color-accent: #ff4444;
+  --color-gold: #c9a84c;
+  --color-border: rgba(255, 255, 255, 0.15);
+
+  /* Typography */
+  --font-heading: 'Bebas Neue', 'Arial Black', sans-serif;
+  --font-body: 'Barlow', 'Segoe UI', sans-serif;
+  --font-accent: 'Work Sans', Georgia, serif;
+
+  /* Spacing Scale */
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 2rem;
+  --space-xl: 3rem;
+  --space-2xl: 4rem;
+
+  /* Layout */
+  --container-max: 1200px;
+  --header-height: 140px;
+  --border-radius: 4px;
+  --border-radius-lg: 8px;
+
+  /* Transitions */
+  --transition-fast: 150ms ease;
+  --transition-base: 300ms ease;
+  --transition-slow: 500ms ease;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.4);
+  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.5);
+}
