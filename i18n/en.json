@@ -1,4 +1,36 @@
 {
+  "lang": "en",
+  "locale": "en_US",
+  "seo": {
+    "index": {
+      "title": "Shooting Range Sklep – Indoor Shooting Range Domažlice",
+      "description": "Indoor shooting range in the center of Domažlice in a historic building. Three firing positions, 25 meters, automatic targets. Shooting packages for beginners and advanced."
+    },
+    "strelnice": {
+      "title": "Shooting Range – Shooting Range Sklep Domažlice",
+      "description": "Modern indoor shooting range in a historic brewery building U Svaté studny from 1341. Three firing positions, 25 meters, automatic moving targets, wireless video transmission."
+    },
+    "zbrane": {
+      "title": "Weapons – Shooting Range Sklep Domažlice",
+      "description": "Weapons gallery of the Sklep shooting range. Historical and modern weapons – pistols, revolvers, submachine guns, assault rifles and more. Themed packages for everyone."
+    },
+    "balicky": {
+      "title": "Packages – Shooting Range Sklep Domažlice",
+      "description": "Shooting packages at the Sklep indoor shooting range. From recreational shooting to professional training. Own weapon, Big Boom, Special units and more."
+    },
+    "faq": {
+      "title": "FAQ – Shooting Range Sklep Domažlice",
+      "description": "Frequently asked questions about the Sklep shooting range. Information about instructors, own weapons, shooting conditions and children's shooting."
+    },
+    "gdpr": {
+      "title": "GDPR – Privacy Policy – Shooting Range Sklep",
+      "description": "Privacy policy of West Bohemian Armament Company, s.r.o. Processing of personal data according to GDPR regulation."
+    },
+    "zbrojniPrukaz": {
+      "title": "Gun License – Shooting Range Sklep Domažlice",
+      "description": "Conditions for obtaining a gun license. A step-by-step guide – from basic requirements to passing the professional competence exam."
+    }
+  },
   "nav": {
     "home": "Home",
     "shootingRange": "Shooting Range",
@@ -50,6 +82,58 @@
     "feature3Title": "MANY TYPES OF WEAPONS - FROM HISTORICAL TO MODERN",
     "feature4Title": "GUN LICENSE"
   },
+  "strelnice": {
+    "title": "Shooting Range",
+    "heading": "SHOOTING RANGE SKLEP",
+    "subtitle": "Indoor shooting range in Domažlice",
+    "heroTagline": "SHOOTING ROOM SKLEP is a place where adrenaline, fun and the opportunity to learn something new come together in a building with history!",
+    "introHeading": "Indoor shooting range: Fun and adrenaline under one roof",
+    "introDescription": "Are you looking for a way to experience something special, have fun and learn new skills at the same time? The indoor shooting range is the ideal place for everyone - whether you are planning a company party, team building, or just want to try shooting for yourself. And what's the best? You don't need a shooting license!",
+    "forWhoTitle": "Who is it for?",
+    "forWhoCorporate": "Corporate teams: Combine fun with building team spirit during shooting competitions.",
+    "forWhoIndividuals": "Individuals: Enjoy a moment of adrenaline and practice your aim.",
+    "forWhoLicense": "Those interested in a shooting license: The perfect environment for preparation and training.",
+    "forWhoFamilies": "Families with children from 10 years: Under the supervision of instructors, even the youngest can try shooting, safely and fun of course.",
+    "expectTitle": "What can you expect?",
+    "expectPackages": "Rich packages: Choose from a variety of weapon combinations, from classic to modern equipment.",
+    "expectInstructors": "Experienced instructors: Professionals will be available at all times to ensure not only your safety, but also a great experience.",
+    "descriptionTitle": "Accuracy and power in the unique Shooting Range Sklep",
+    "description": "So what do you say, when will you test your accuracy and determination? The Sklep Shooting Range is a modern indoor shooting range in the center of Domažlice in a historical building with roots dating back to 1341, when the U Svaté studny brewery originally operated here. It combines the unique atmosphere of the past with the latest technologies for the ultimate shooting experience.",
+    "featuresTitle": "Shooting range equipment",
+    "features": [
+      "3 firing positions with a length of 25 meters",
+      "Automatic moving targets",
+      "Wireless video transmission to the firing line – instant hit overview",
+      "High-quality air technology and sound insulation",
+      "Modern security systems",
+      "Ideal for sports shooting and professional training"
+    ],
+    "historyTitle": "BREWERY U SVATÉ STUDNY - HISTORY OF THE SHOOTING ROOM BUILDING CELLAR",
+    "history": "The Brewery at the Holy Well in Domažlice, also known as the municipal brewery, played an important role in the history of Domažlice brewing. Its origins date back to the period after the town was granted brewing rights, which probably occurred when it was founded in the second half of the 13th century. The townspeople of Domažlice have been brewing beer since the 14th century thanks to a privilege granted by King John of Luxembourg in 1341. The first organized brewery, probably on the site of the later U Svaté studny brewery, was established as a municipal brewery. In 1895, the town moved beer production from the original U Svaté studny municipal brewery to a new area in the Týnské předměstí.",
+    "barTitle": "Bar and facilities",
+    "barDescription": "Of course, there is a modern facility with a bar, a wide range of soft drinks, coffee and snacks. Parking is possible in the street near Střelnice Sklep, or in the nearby area in the town of Domažlice."
+  },
+  "zbrane": {
+    "title": "Weapons",
+    "heading": "WEAPONS OFFER SHOOTING RANGE SKLEP",
+    "description": "The SKLEP SHOOT GALLERY is a place where history meets modern technology. View detailed photos of weapons that make up history as well as the latest models that define the current shooting scene. The offer is varied and includes thematic packages that connect weapons according to their stories, period or type. Whether you are interested in legendary weapons from the past or innovations of today, our gallery will draw you into the fascinating world of shooting. Get ready for a selection that is sure to interest you!",
+    "categories": [
+      "Pistols",
+      "Revolvers",
+      "Submachine guns",
+      "Assault rifles",
+      "Bayonets",
+      "Light machine guns",
+      "Small-bore rifles",
+      "PDW weapons",
+      "World War II weapons",
+      "Czech modern weapons",
+      "Weapons of the CZ Police",
+      "Movie weapons",
+      "CSLA weaponry",
+      "Special units"
+    ]
+  },
   "packages": {
     "heading1": "WE HAVE GREAT",
     "heading2": "PACKAGE OFFERS",
@@ -92,6 +176,45 @@
     "childrenWeaponType": "Type of weapon: Lighter and less powerful weapons, such as air rifles or small-bore rifles, are usually suitable for children.",
     "childrenSafety": "Safety Rules: Before shooting, children must undergo basic safety training.",
     "childrenConsent": "Parental Consent: Written consent from parents or legal guardians is often required to participate in shooting."
+  },
+  "gdpr": {
+    "title": "Privacy Policy",
+    "heading": "Processing of Personal Data",
+    "intro": "The controller of personal data pursuant to Article 4(7) of Regulation (EU) 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data (GDPR) is West Bohemian Armament Company, s.r.o.",
+    "sections": [
+      {
+        "title": "I. Basic provisions",
+        "text": "The controller of personal data is West Bohemian Armament Company, s.r.o. Contact details: Pavel Kolář, Čapka Choda 347, Domažlice, +420 602 230 497, p.kolar@zcos.cz. Personal data means all information about an identified or identifiable natural person. The controller has not appointed a data protection officer."
+      },
+      {
+        "title": "II. Sources and categories of personal data processed",
+        "text": "The controller processes personal data that you have provided or that the controller has obtained based on the fulfilment of your order. The controller processes your identification and contact details and data necessary for the fulfilment of the contract."
+      },
+      {
+        "title": "III. Legal basis and purpose of personal data processing",
+        "text": "The legal basis for processing personal data is: performance of the contract between you and the controller, the controller's legitimate interest in providing direct marketing, and your consent to processing for direct marketing purposes. The purpose of processing is: processing your order and exercising rights and obligations arising from the contractual relationship, and sending commercial communications and other marketing activities."
+      },
+      {
+        "title": "IV. Data retention period",
+        "text": "The controller retains personal data for the period necessary to exercise rights and obligations arising from the contractual relationship (for 15 years after termination of the contractual relationship), or until consent for marketing purposes is withdrawn, maximum 15 years. After the retention period expires, the controller will delete the personal data."
+      },
+      {
+        "title": "V. Recipients of personal data",
+        "text": "Recipients of personal data are persons involved in the delivery of goods/services/payment processing, providers of e-shop operation services, and providers of marketing services. The controller does not intend to transfer personal data to a third country (outside the EU) or to an international organisation."
+      },
+      {
+        "title": "VI. Your rights",
+        "text": "Under the conditions set out in the GDPR, you have the right of access to your personal data, the right to rectification, the right to erasure, the right to object to processing, the right to data portability, and the right to withdraw consent. You also have the right to lodge a complaint with the Office for Personal Data Protection."
+      },
+      {
+        "title": "VII. Security of personal data",
+        "text": "The controller declares that it has taken all appropriate technical and organisational measures to secure personal data, including technical measures to secure data storage, and that only authorised persons have access to personal data."
+      },
+      {
+        "title": "VIII. Final provisions",
+        "text": "By submitting an order from the online order form, you confirm that you are familiar with the privacy policy conditions and accept them in full. The controller is entitled to change these conditions and will publish the new version on its website."
+      }
+    ]
   },
   "gunLicense": {
     "title": "Conditions for obtaining a gun license",

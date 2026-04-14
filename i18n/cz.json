@@ -1,4 +1,36 @@
 {
+  "lang": "cs",
+  "locale": "cs_CZ",
+  "seo": {
+    "index": {
+      "title": "Střelnice Sklep – Krytá střelnice Domažlice",
+      "description": "Krytá střelnice v centru Domažlic v historickém objektu. Tři palebná stanoviště, 25 metrů, automatické terče. Střelecké balíčky pro začátečníky i pokročilé."
+    },
+    "strelnice": {
+      "title": "Střelnice – Střelnice Sklep Domažlice",
+      "description": "Moderní krytá střelnice v historickém objektu pivovaru U Svaté studny z roku 1341. Tři palebná stanoviště, 25 metrů, automatické pohyblivé terče, bezdrátový video přenos."
+    },
+    "zbrane": {
+      "title": "Zbraně – Střelnice Sklep Domažlice",
+      "description": "Galerie zbraní střelnice Sklep. Historické i moderní zbraně – pistole, revolvery, samopaly, útočné pušky a další. Tematické balíčky pro každého."
+    },
+    "balicky": {
+      "title": "Balíčky – Střelnice Sklep Domažlice",
+      "description": "Střelecké balíčky na kryté střelnici Sklep. Od rekreační střelby po profesionální trénink. Vlastní zbraň, Big Boom, Speciální jednotky a další."
+    },
+    "faq": {
+      "title": "FAQ – Střelnice Sklep Domažlice",
+      "description": "Často kladené dotazy o střelnici Sklep. Informace o instruktorech, vlastních zbraních, podmínkách střelby a střelbě dětí."
+    },
+    "gdpr": {
+      "title": "GDPR – Ochrana osobních údajů – Střelnice Sklep",
+      "description": "Podmínky ochrany osobních údajů společnosti West Bohemian Armament Company, s.r.o. Zpracování osobních údajů dle nařízení GDPR."
+    },
+    "zbrojniPrukaz": {
+      "title": "Zbrojní průkaz – Střelnice Sklep Domažlice",
+      "description": "Podmínky pro získání zbrojního průkazu. Průvodce krok za krokem – od základních požadavků po složení zkoušky odborné způsobilosti."
+    }
+  },
   "nav": {
     "home": "Hlavní stránka",
     "shootingRange": "Střelnice",
@@ -50,6 +82,58 @@
     "feature3Title": "MNOHO DRUHŮ ZBRANÍ - OD HISTORICKÝCH PO MODERNÍ",
     "feature4Title": "ZBROJNÍ PRŮKAZ"
   },
+  "strelnice": {
+    "title": "Střelnice",
+    "heading": "STŘELNICE SKLEP",
+    "subtitle": "Krytá střelnice v Domažlicích",
+    "heroTagline": "STŘELNICE SKLEP je místem, kde se spojuje adrenalin, zábava a možnost naučit se něco nového v budově s historií!",
+    "introHeading": "Krytá střelnice: Zábava i adrenalin pod jednou střechou",
+    "introDescription": "Hledáte způsob, jak zažít něco výjimečného, pobavit se a zároveň si osvojit nové dovednosti? Krytá střelnice je ideální místo pro všechny – ať už plánujete firemní večírek, teambuilding, nebo si jen chcete vyzkoušet střelbu na vlastní kůži. A co je nejlepší? Nemusíte mít střelecký průkaz!",
+    "forWhoTitle": "Pro koho je určena?",
+    "forWhoCorporate": "Firemní týmy: Spojte zábavu s budováním týmového ducha při soutěžích ve střelbě.",
+    "forWhoIndividuals": "Jednotlivce: Užijte si chvíli adrenalinu a procvičte své zaměření.",
+    "forWhoLicense": "Zájemce o střelecký průkaz: Perfektní prostředí pro přípravu a trénink.",
+    "forWhoFamilies": "Rodiny s dětmi od 10 let: Pod dozorem instruktorů si mohou i ti nejmenší vyzkoušet střelbu, samozřejmě bezpečně a zábavně.",
+    "expectTitle": "Co můžete očekávat?",
+    "expectPackages": "Bohaté balíčky: Vyberte si z různorodých kombinací zbraní, od klasiky až po moderní vybavení.",
+    "expectInstructors": "Zkušené instruktory: Profesionálové vám budou po celou dobu k dispozici, aby zajistili nejen vaši bezpečnost, ale i skvělý zážitek.",
+    "descriptionTitle": "Přesnost a síla v jedinečné Střelnici Sklep",
+    "description": "Tak co říkáte, kdy vyzkoušíte svou přesnost a odhodlání? Střelnice Sklep je moderní krytá střelnice v centru Domažlic v historickém objektu s kořeny sahajícími až do roku 1341, kdy zde původně fungoval pivovar U Svaté studny. Spojuje jedinečnou atmosféru minulosti s nejnovějšími technologiemi pro maximální střelecký zážitek.",
+    "featuresTitle": "Vybavení střelnice",
+    "features": [
+      "3 palebná stanoviště s délkou 25 metrů",
+      "Automatické pohyblivé terče",
+      "Bezdrátový video přenos k palebné čáře – okamžitý přehled o zásahu",
+      "Kvalitní vzduchotechnika a zvuková izolace",
+      "Moderní bezpečnostní systémy",
+      "Ideální pro sportovní střelbu i profesionální výcvik"
+    ],
+    "historyTitle": "PIVOVAR U SVATÉ STUDNY – HISTORIE BUDOVY STŘELNICE SKLEP",
+    "history": "Pivovar U Svaté studny v Domažlicích, známý také jako obecní pivovar, hrál významnou roli v historii domažlického pivovarnictví. Jeho počátky sahají do období po udělení várečného práva městu, což pravděpodobně nastalo již při jeho založení ve druhé polovině 13. století. Měšťané v Domažlicích vařili pivo již od 14. století díky privilegiu krále Jana Lucemburského z roku 1341. První organizovaný pivovar, pravděpodobně v místě pozdějšího pivovaru U Svaté studny, vznikl jako obecní pivovar. V roce 1895 město přesunulo výrobu piva z původního obecního pivovaru do nového areálu na Týnském předměstí.",
+    "barTitle": "Bar a zázemí",
+    "barDescription": "Samozřejmostí je moderní zázemí s barem, širokou nabídkou nealkoholických nápojů, kávou a drobného občerstvení. Parkování je možné v ulici u Střelnice Sklep, případně v blízkém okolí ve městě Domažlice."
+  },
+  "zbrane": {
+    "title": "Zbraně",
+    "heading": "NABÍDKA ZBRANÍ STŘELNICE SKLEP",
+    "description": "Galerie zbraní STŘELNICE SKLEP je místem, kde se historie setkává s moderní technologií. Prohlédněte si detailní fotografie zbraní, které tvoří dějiny i nejnovějších modelů, které definují současnou střeleckou scénu. Nabídka je pestrá a zahrnuje tematické balíčky, které propojují zbraně podle jejich příběhů, období nebo typu. Ať už vás zajímají legendární zbraně z minulosti, nebo inovace dneška, naše galerie vás vtáhne do fascinujícího světa střelby. Připravte se na výběr, který vás jistě zaujme!",
+    "categories": [
+      "Pistole",
+      "Revolvery",
+      "Samopaly",
+      "Útočné pušky",
+      "Bodáky",
+      "Lehké kulomety",
+      "Malorážky",
+      "Samopaly PDW",
+      "Zbraně 2. světové války",
+      "České moderní zbraně",
+      "Zbraně policie ČR",
+      "Filmové zbraně",
+      "Zbraně ČSLA",
+      "Speciální jednotky"
+    ]
+  },
   "packages": {
     "heading1": "MÁME PRO VÁS SKVĚLÉ",
     "heading2": "NABÍDKOVÉ BALÍČKY",
@@ -92,6 +176,45 @@
     "childrenWeaponType": "Typ zbraně: Pro děti jsou obvykle vhodné lehčí a méně výkonné zbraně, jako jsou vzduchovky nebo malorážky.",
     "childrenSafety": "Bezpečnostní pravidla: Před samotnou střelbou musí děti projít základním školením o bezpečnosti.",
     "childrenConsent": "Souhlas rodičů: Pro účast na střelbě je často vyžadován písemný souhlas rodičů nebo zákonných zástupců."
+  },
+  "gdpr": {
+    "title": "Podmínky ochrany osobních údajů",
+    "heading": "Zpracování osobních údajů",
+    "intro": "Správcem osobních údajů podle čl. 4 bod 7 nařízení Evropského parlamentu a Rady (EU) 2016/679 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů (dále jen: „GDPR\") je West Bohemian Armament Company, s.r.o.",
+    "sections": [
+      {
+        "title": "I. Základní ustanovení",
+        "text": "1. Správcem osobních údajů podle čl. 4 bod 7 nařízení Evropského parlamentu a Rady (EU) 2016/679 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů (dále jen: „GDPR\") je West Bohemian Armament Company, s.r.o.\n\n2. Kontaktní údaje správce jsou: adresa: Pavel Kolář, Čapka Choda 347, Domažlice, +420 602 230 497, p.kolar@zcos.cz\n\n3. Osobními údaji se rozumí veškeré informace o identifikované nebo identifikovatelné fyzické osobě; identifikovatelnou fyzickou osobou je fyzická osoba, kterou lze přímo či nepřímo identifikovat, zejména odkazem na určitý identifikátor, například jméno, identifikační číslo, lokační údaje, síťový identifikátor nebo na jeden či více zvláštních prvků fyzické, fyziologické, genetické, psychické, ekonomické, kulturní nebo společenské identity této fyzické osoby.\n\n4. Správce nejmenoval pověřence pro ochranu osobních údajů."
+      },
+      {
+        "title": "II. Zdroje a kategorie zpracovávaných osobních údajů",
+        "text": "1. Správce zpracovává osobní údaje, které jste mu poskytl/a nebo osobní údaje, které správce získal na základě plnění Vaší objednávky.\n\n2. Správce zpracovává Vaše identifikační a kontaktní údaje a údaje nezbytné pro plnění smlouvy."
+      },
+      {
+        "title": "III. Zákonný důvod a účel zpracování osobních údajů",
+        "text": "1. Zákonným důvodem zpracování osobních údajů je:\n- plnění smlouvy mezi Vámi a správcem podle čl. 6 odst. 1 písm. b) GDPR,\n- oprávněný zájem správce na poskytování přímého marketingu (zejména pro zasílání obchodních sdělení a newsletterů) podle čl. 6 odst. 1 písm. f) GDPR,\n- Váš souhlas se zpracováním pro účely poskytování přímého marketingu podle čl. 6 odst. 1 písm. a) GDPR ve spojení s § 7 odst. 2 zákona č. 480/2004 Sb., o některých službách informační společnosti v případě, že nedošlo k objednávce zboží nebo služby.\n\n2. Účelem zpracování osobních údajů je:\n- vyřízení Vaší objednávky a výkon práv a povinností vyplývajících ze smluvního vztahu mezi Vámi a správcem; při objednávce jsou vyžadovány osobní údaje, které jsou nutné pro úspěšné vyřízení objednávky (jméno a adresa, kontakt), poskytnutí osobních údajů je nutným požadavkem pro uzavření a plnění smlouvy, bez poskytnutí osobních údajů není možné smlouvu uzavřít či jí ze strany správce plnit,\n- zasílání obchodních sdělení a činění dalších marketingových aktivit.\n\n3. Ze strany správce dochází k automatickému individuálnímu rozhodování ve smyslu čl. 22 GDPR. S takovým zpracováním jste poskytl/a svůj výslovný souhlas."
+      },
+      {
+        "title": "IV. Doba uchovávání údajů",
+        "text": "1. Správce uchovává osobní údaje:\n- po dobu nezbytnou k výkonu práv a povinností vyplývajících ze smluvního vztahu mezi Vámi a správcem a uplatňování nároků z těchto smluvních vztahů (po dobu 15 let od ukončení smluvního vztahu).\n- po dobu, než je odvolán souhlas se zpracováním osobních údajů pro účely marketingu, nejdéle 15 let, jsou-li osobní údaje zpracovávány na základě souhlasu.\n\n2. Po uplynutí doby uchovávání osobních údajů správce osobní údaje vymaže."
+      },
+      {
+        "title": "V. Příjemci osobních údajů (subdodavatelé správce)",
+        "text": "1. Příjemci osobních údajů jsou osoby:\n- podílející se na dodání zboží / služeb / realizaci plateb na základě smlouvy,\n- zajišťující služby provozování e-shopu a další služby v souvislosti s provozováním e-shopu,\n- zajišťující marketingové služby.\n\n2. Správce nemá v úmyslu předat osobní údaje do třetí země (do země mimo EU) nebo mezinárodní organizaci."
+      },
+      {
+        "title": "VI. Vaše práva",
+        "text": "1. Za podmínek stanovených v GDPR máte:\n- právo na přístup ke svým osobním údajům dle čl. 15 GDPR,\n- právo opravu osobních údajů dle čl. 16 GDPR, popřípadně omezení zpracování dle čl. 18 GDPR,\n- právo na výmaz osobních údajů dle čl. 17 GDPR,\n- právo vznést námitku proti zpracování dle čl. 21 GDPR,\n- právo na přenositelnost údajů dle čl. 20 GDPR,\n- právo odvolat souhlas se zpracováním písemně nebo elektronicky na adresu nebo email správce uvedený v čl. III těchto podmínek.\n\n2. Dále máte právo podat stížnost u Úřadu pro ochranu osobních údajů v případě, že se domníváte, že bylo porušeno Vaší právo na ochranu osobních údajů."
+      },
+      {
+        "title": "VII. Podmínky zabezpečení osobních údajů",
+        "text": "1. Správce prohlašuje, že přijal veškerá vhodná technická a organizační opatření k zabezpečení osobních údajů.\n\n2. Správce přijal technická opatření k zabezpečení datových úložišť a úložišť osobních údajů v listinné podobě, zejména maximální možné zabezpečení všech úrovní.\n\n3. Správce prohlašuje, že k osobním údajům mají přístup pouze jím pověřené osoby."
+      },
+      {
+        "title": "VIII. Závěrečná ustanovení",
+        "text": "1. Odesláním objednávky z internetového objednávkového formuláře potvrzujete, že jste seznámen/a s podmínkami ochrany osobních údajů a že je v celém rozsahu přijímáte.\n\n2. S těmito podmínkami souhlasíte zaškrtnutím souhlasu prostřednictvím internetového formuláře. Zaškrtnutím souhlasu potvrzujete, že jste seznámen/a s podmínkami ochrany osobních údajů a že je v celém rozsahu přijímáte.\n\n3. Správce je oprávněn tyto podmínky změnit. Novou verzi podmínek ochrany osobních údajů zveřejní na svých internetových stránkách a zároveň Vám zašle novou verzi těchto podmínek na Vaši e-mailovou adresu, kterou jste správci poskytl/a."
+      }
+    ]
   },
   "gunLicense": {
     "title": "Podmínky pro získání zbrojního průkazu",

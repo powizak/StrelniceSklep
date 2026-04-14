@@ -1,4 +1,36 @@
 {
+  "lang": "de",
+  "locale": "de_DE",
+  "seo": {
+    "index": {
+      "title": "Schießstand Sklep – Indoor-Schießstand Domažlice",
+      "description": "Indoor-Schießstand im Zentrum von Domažlice in einem historischen Gebäude. Drei Feuerstellungen, 25 Meter, automatische Ziele. Schießpakete für Anfänger und Fortgeschrittene."
+    },
+    "strelnice": {
+      "title": "Schießstand – Schießstand Sklep Domažlice",
+      "description": "Moderner Indoor-Schießstand im historischen Brauereigebäude U Svaté studny aus dem Jahr 1341. Drei Feuerstellungen, 25 Meter, automatisch bewegliche Ziele, drahtlose Videoübertragung."
+    },
+    "zbrane": {
+      "title": "Waffen – Schießstand Sklep Domažlice",
+      "description": "Waffengalerie des Schießstands Sklep. Historische und moderne Waffen – Pistolen, Revolver, Maschinenpistolen, Sturmgewehre und mehr. Thematische Pakete für jeden."
+    },
+    "balicky": {
+      "title": "Pakete – Schießstand Sklep Domažlice",
+      "description": "Schießpakete am Indoor-Schießstand Sklep. Vom Freizeitschießen bis zum professionellen Training. Eigene Waffe, Big Boom, Spezialeinheiten und mehr."
+    },
+    "faq": {
+      "title": "FAQ – Schießstand Sklep Domažlice",
+      "description": "Häufig gestellte Fragen zum Schießstand Sklep. Informationen über Ausbilder, eigene Waffen, Schießbedingungen und Schießen für Kinder."
+    },
+    "gdpr": {
+      "title": "GDPR – Datenschutz – Schießstand Sklep",
+      "description": "Datenschutzbestimmungen der West Bohemian Armament Company, s.r.o. Verarbeitung personenbezogener Daten gemäß der GDPR-Verordnung."
+    },
+    "zbrojniPrukaz": {
+      "title": "Waffenschein – Schießstand Sklep Domažlice",
+      "description": "Bedingungen für den Erwerb des Waffenscheins. Eine Schritt-für-Schritt-Anleitung – von den Grundanforderungen bis zur Ablegung der Fachkompetenzprüfung."
+    }
+  },
   "nav": {
     "home": "Startseite",
     "shootingRange": "Schießstand",
@@ -50,6 +82,58 @@
     "feature3Title": "VIELE WAFFENARTEN – VON HISTORISCHEN BIS MODERNEN",
     "feature4Title": "WAFFENSCHEIN"
   },
+  "strelnice": {
+    "title": "Schießstand",
+    "heading": "SCHIEßSTAND SKLEP",
+    "subtitle": "Indoor-Schießstand in Domažlice",
+    "heroTagline": "SHOOTING ROOM SKLEP ist ein Ort, an dem Adrenalin, Spaß und die Möglichkeit, etwas Neues zu lernen, in einem Gebäude mit Geschichte zusammenkommen!",
+    "introHeading": "Indoor-Schießanlage: Spaß und Adrenalin unter einem Dach",
+    "introDescription": "Suchen Sie nach einer Möglichkeit, etwas Besonderes zu erleben, Spaß zu haben und gleichzeitig neue Fähigkeiten zu erlernen? Die Indoor-Schießanlage ist der ideale Ort für alle – egal, ob Sie eine Firmenfeier planen, Teambuilding betreiben oder einfach nur das Schießen ausprobieren möchten. Und das Beste daran: Sie benötigen keinen Schießschein!",
+    "forWhoTitle": "Für wen ist die Anlage geeignet?",
+    "forWhoCorporate": "Firmenteams: Verbinden Sie Spaß und Teamgeist bei Schießwettbewerben.",
+    "forWhoIndividuals": "Einzelpersonen: Erleben Sie einen Adrenalin-Moment und trainieren Sie Ihre Treffsicherheit.",
+    "forWhoLicense": "Interessierte an einem Schießschein: Die perfekte Umgebung für Vorbereitung und Training.",
+    "forWhoFamilies": "Familien mit Kindern ab 10 Jahren: Unter Aufsicht von Trainern können auch die Kleinsten das Schießen ausprobieren – sicher und mit Spaß natürlich.",
+    "expectTitle": "Was erwartet Sie?",
+    "expectPackages": "Ausgezeichnete Pakete: Wählen Sie aus verschiedenen Waffenkombinationen, von klassisch bis modern.",
+    "expectInstructors": "Erfahrene Instruktoren: Profis stehen Ihnen jederzeit zur Verfügung, um nicht nur Ihre Sicherheit, sondern auch ein tolles Erlebnis zu gewährleisten.",
+    "descriptionTitle": "Treffsicherheit und Kraft im einzigartigen Schießstand Sklep",
+    "description": "Also, was sagst du dazu? Wann testest du deine Treffsicherheit und Entschlossenheit? Der Schießstand Sklep ist ein moderner Indoor-Schießstand im Zentrum von Domažlice in einem historischen Gebäude, dessen Wurzeln bis ins Jahr 1341 zurückreichen, als hier ursprünglich die Brauerei U Svaté studny betrieben wurde. Er verbindet die einzigartige Atmosphäre vergangener Zeiten mit modernster Technologie für ein ultimatives Schießerlebnis.",
+    "featuresTitle": "Ausstattung des Schießstands",
+    "features": [
+      "3 Feuerstellungen mit einer Länge von 25 Metern",
+      "Automatisch bewegliche Ziele",
+      "Drahtlose Videoübertragung zur Schießlinie – sofortige Trefferübersicht",
+      "Hochwertige Lufttechnik und Schalldämmung",
+      "Moderne Sicherheitssysteme",
+      "Ideal für sportliches Schießen und professionelles Training"
+    ],
+    "historyTitle": "BRAUEREI U SVATÉ STUDNY – GESCHICHTE DES SCHIEßRAUMS",
+    "history": "Die Brauerei am Heiligen Brunnen in Domažlice, auch bekannt als Stadtbrauerei, spielte eine wichtige Rolle in der Geschichte des Domažlicer Brauwesens. Ihre Ursprünge reichen bis in die Zeit nach der Verleihung des Braurechts an die Stadt zurück, vermutlich mit ihrer Gründung in der zweiten Hälfte des 13. Jahrhunderts. Die Einwohner von Domažlice brauen seit dem 14. Jahrhundert Bier, dank eines Privilegs von König Johann von Luxemburg aus dem Jahr 1341. Die erste organisierte Brauerei, wahrscheinlich am Standort der späteren Brauerei U Svaté studny, entstand als städtische Brauerei. 1895 verlegte die Stadt die Bierproduktion von der ursprünglichen städtischen Brauerei auf ein neues Gelände im Stadtteil Týnské předměstí.",
+    "barTitle": "Bar und Einrichtungen",
+    "barDescription": "Selbstverständlich gibt es auch eine moderne Einrichtung mit Bar, einer großen Auswahl an Erfrischungsgetränken, Kaffee und Snacks. Parkmöglichkeiten gibt es in der Straße bei Střelnice Sklep oder in der näheren Umgebung der Stadt Domažlice."
+  },
+  "zbrane": {
+    "title": "Waffen",
+    "heading": "WAFFENANGEBOT SCHIESSSTAND SKLEP",
+    "description": "Die SKLEP SHOOT GALLERY ist ein Ort, an dem Geschichte auf moderne Technologie trifft. Sehen Sie sich detaillierte Fotos historischer Waffen sowie der neuesten Modelle an, die die aktuelle Schießszene prägen. Das Angebot ist vielfältig und umfasst Themenpakete, die Waffen je nach Geschichte, Epoche oder Typ miteinander verbinden. Ob Sie sich für legendäre Waffen aus der Vergangenheit oder Innovationen von heute interessieren – unsere Galerie entführt Sie in die faszinierende Welt des Schießsports. Freuen Sie sich auf eine Auswahl, die Sie begeistern wird!",
+    "categories": [
+      "Pistolen",
+      "Revolver",
+      "Maschinenpistolen",
+      "Sturmgewehre",
+      "Bajonette",
+      "Leichte Maschinengewehre",
+      "Kleinkalibergewehre",
+      "PDW-Waffen",
+      "Waffen des 2. Weltkriegs",
+      "Czech moderne Waffen",
+      "Waffen der CZ Polizei",
+      "Filmwaffen",
+      "CSLA-Waffen",
+      "Spezialeinheiten"
+    ]
+  },
   "packages": {
     "heading1": "WIR HABEN TOLLE",
     "heading2": "ANGEBOTSPAKETE",
@@ -92,6 +176,45 @@
     "childrenWeaponType": "Waffenart: Leichtere und weniger leistungsstarke Waffen wie Luftgewehre oder Kleinkalibergewehre sind in der Regel für Kinder geeignet.",
     "childrenSafety": "Sicherheitsregeln: Vor dem Schießen müssen Kinder eine grundlegende Sicherheitsschulung absolvieren.",
     "childrenConsent": "Für die Teilnahme an Schießübungen ist häufig eine schriftliche Einwilligung der Eltern erforderlich."
+  },
+  "gdpr": {
+    "title": "Datenschutzbestimmungen",
+    "heading": "Verarbeitung personenbezogener Daten",
+    "intro": "Der Verantwortliche für personenbezogene Daten gemäß Artikel 4 Absatz 7 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten (DSGVO) ist West Bohemian Armament Company, s.r.o.",
+    "sections": [
+      {
+        "title": "I. Grundlegende Bestimmungen",
+        "text": "Verantwortlicher für personenbezogene Daten ist West Bohemian Armament Company, s.r.o. Kontaktdaten: Pavel Kolář, Čapka Choda 347, Domažlice, +420 602 230 497, p.kolar@zcos.cz. Personenbezogene Daten sind alle Informationen über eine identifizierte oder identifizierbare natürliche Person. Der Verantwortliche hat keinen Datenschutzbeauftragten ernannt."
+      },
+      {
+        "title": "II. Quellen und Kategorien der verarbeiteten personenbezogenen Daten",
+        "text": "Der Verantwortliche verarbeitet personenbezogene Daten, die Sie ihm zur Verfügung gestellt haben oder die er im Rahmen der Auftragsabwicklung erhalten hat. Der Verantwortliche verarbeitet Ihre Identifikations- und Kontaktdaten sowie die für die Vertragserfüllung erforderlichen Daten."
+      },
+      {
+        "title": "III. Rechtsgrundlage und Zweck der Datenverarbeitung",
+        "text": "Die Rechtsgrundlage für die Verarbeitung personenbezogener Daten ist: die Erfüllung des Vertrags zwischen Ihnen und dem Verantwortlichen, das berechtigte Interesse des Verantwortlichen an Direktmarketing und Ihre Einwilligung zur Verarbeitung für Direktmarketingzwecke. Zweck der Verarbeitung ist: die Abwicklung Ihrer Bestellung und die Ausübung von Rechten und Pflichten aus dem Vertragsverhältnis sowie der Versand von Handelsmitteilungen und weitere Marketingaktivitäten."
+      },
+      {
+        "title": "IV. Aufbewahrungsdauer der Daten",
+        "text": "Der Verantwortliche bewahrt personenbezogene Daten für den Zeitraum auf, der zur Ausübung der Rechte und Pflichten aus dem Vertragsverhältnis erforderlich ist (15 Jahre nach Beendigung des Vertragsverhältnisses), bzw. bis die Einwilligung für Marketingzwecke widerrufen wird, maximal 15 Jahre. Nach Ablauf der Aufbewahrungsfrist werden die personenbezogenen Daten gelöscht."
+      },
+      {
+        "title": "V. Empfänger personenbezogener Daten",
+        "text": "Empfänger personenbezogener Daten sind: an der Lieferung von Waren/Dienstleistungen/Zahlungsabwicklung beteiligte Personen, Anbieter von E-Shop-Betriebsdiensten und Anbieter von Marketingdiensten. Der Verantwortliche beabsichtigt nicht, personenbezogene Daten an ein Drittland (außerhalb der EU) oder an eine internationale Organisation zu übermitteln."
+      },
+      {
+        "title": "VI. Ihre Rechte",
+        "text": "Unter den in der DSGVO festgelegten Bedingungen haben Sie das Recht auf Zugang zu Ihren personenbezogenen Daten, das Recht auf Berichtigung, das Recht auf Löschung, das Recht auf Widerspruch gegen die Verarbeitung, das Recht auf Datenübertragbarkeit und das Recht auf Widerruf der Einwilligung. Sie haben auch das Recht, eine Beschwerde beim Amt für den Schutz personenbezogener Daten einzulegen."
+      },
+      {
+        "title": "VII. Sicherheit der personenbezogenen Daten",
+        "text": "Der Verantwortliche erklärt, dass er alle angemessenen technischen und organisatorischen Maßnahmen zum Schutz personenbezogener Daten ergriffen hat, einschließlich technischer Maßnahmen zur Sicherung von Datenspeichern, und dass nur autorisierte Personen Zugang zu personenbezogenen Daten haben."
+      },
+      {
+        "title": "VIII. Schlussbestimmungen",
+        "text": "Mit der Absendung einer Bestellung über das Online-Bestellformular bestätigen Sie, dass Sie mit den Datenschutzbestimmungen vertraut sind und diese in vollem Umfang akzeptieren. Der Verantwortliche ist berechtigt, diese Bedingungen zu ändern und wird die neue Version auf seiner Website veröffentlichen."
+      }
+    ]
   },
   "gunLicense": {
     "title": "Bedingungen für den Erwerb des Waffenscheins",
