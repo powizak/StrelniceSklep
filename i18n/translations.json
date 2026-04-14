@@ -1,0 +1,616 @@
+{
+  "nav": {
+    "home": {
+      "cz": "Domů",
+      "de": "Startseite",
+      "en": "Home"
+    },
+    "strelnice": {
+      "cz": "Střelnice",
+      "de": "Schießstand",
+      "en": "Shooting Range"
+    },
+    "zbrane": {
+      "cz": "Zbraně",
+      "de": "Waffen",
+      "en": "Weapons"
+    },
+    "balicky": {
+      "cz": "Balíčky",
+      "de": "Pakete",
+      "en": "Packages"
+    },
+    "faq": {
+      "cz": "Časté dotazy",
+      "de": "Häufig gestellte Fragen",
+      "en": "FAQ"
+    },
+    "zbrojni_prukaz": {
+      "cz": "Zbrojní průkaz",
+      "de": "Waffenschein",
+      "en": "Firearms License"
+    },
+    "gdpr": {
+      "cz": "GDPR",
+      "de": "DSGVO",
+      "en": "GDPR"
+    }
+  },
+  "footer": {
+    "company_name": {
+      "cz": "West Bohemian Armament Company, s.r.o.",
+      "de": "West Bohemian Armament Company, s.r.o.",
+      "en": "West Bohemian Armament Company, s.r.o."
+    },
+    "brand_name": {
+      "cz": "Střelnice Sklep",
+      "de": "Střelnice Sklep",
+      "en": "Střelnice Sklep"
+    },
+    "address": {
+      "cz": "Dukelská 631, 344 01 Domažlice",
+      "de": "Dukelská 631, 344 01 Domažlice",
+      "en": "Dukelská 631, 344 01 Domažlice"
+    },
+    "company_address": {
+      "cz": "Náměstí Republiky 6, 346 01 Horšovský Týn",
+      "de": "Náměstí Republiky 6, 346 01 Horšovský Týn",
+      "en": "Náměstí Republiky 6, 346 01 Horšovský Týn"
+    },
+    "ico": {
+      "cz": "IČO: 176 63 806",
+      "de": "IČO: 176 63 806",
+      "en": "IČO: 176 63 806"
+    },
+    "phone": {
+      "cz": "+420 777 263 031",
+      "de": "+420 777 263 031",
+      "en": "+420 777 263 031"
+    },
+    "contact": {
+      "cz": "p. Karel Hrabík",
+      "de": "p. Karel Hrabík",
+      "en": "p. Karel Hrabík"
+    },
+    "contact_label": {
+      "cz": "Kontakt",
+      "de": "Kontakt",
+      "en": "Contact"
+    },
+    "follow_us": {
+      "cz": "Sledujte nás",
+      "de": "Folgen Sie uns",
+      "en": "Follow Us"
+    },
+    "copyright": {
+      "cz": "© 2025 Střelnice Sklep. Všechna práva vyhrazena.",
+      "de": "© 2025 Střelnice Sklep. Alle Rechte vorbehalten.",
+      "en": "© 2025 Střelnice Sklep. All rights reserved."
+    }
+  },
+  "common": {
+    "cookie_consent_title": {
+      "cz": "Používání cookies",
+      "de": "Verwendung von Cookies",
+      "en": "Cookie Usage"
+    },
+    "cookie_consent_text": {
+      "cz": "Tyto webové stránky používají soubory cookies k poskytování služeb a analýze návštěvnosti. Používáním tohoto webu s tím souhlasíte.",
+      "de": "Diese Website verwendet Cookies, um Dienste bereitzustellen und den Datenverkehr zu analysieren. Durch die Nutzung dieser Website stimmen Sie der Verwendung von Cookies zu.",
+      "en": "This website uses cookies to provide services and analyze traffic. By using this website, you agree to the use of cookies."
+    },
+    "cookie_accept": {
+      "cz": "Přijmout",
+      "de": "Akzeptieren",
+      "en": "Accept"
+    },
+    "cookie_decline": {
+      "cz": "Odmítnout",
+      "de": "Ablehnen",
+      "en": "Decline"
+    },
+    "language_cz": {
+      "cz": "Čeština",
+      "de": "Tschechisch",
+      "en": "Czech"
+    },
+    "language_de": {
+      "cz": "Němčina",
+      "de": "Deutsch",
+      "en": "German"
+    },
+    "language_en": {
+      "cz": "Angličtina",
+      "de": "Englisch",
+      "en": "English"
+    },
+    "skip_link": {
+      "cz": "Přeskočit na hlavní obsah",
+      "de": "Zum Hauptinhalt springen",
+      "en": "Skip to main content"
+    },
+    "read_more": {
+      "cz": "Číst více",
+      "de": "Mehr lesen",
+      "en": "Read more"
+    },
+    "close": {
+      "cz": "Zavřít",
+      "de": "Schließen",
+      "en": "Close"
+    }
+  },
+  "pages": {
+    "home": {
+      "title": {
+        "cz": "Střelnice Sklep - Domů",
+        "de": "Střelnice Sklep - Startseite",
+        "en": "Střelnice Sklep - Home"
+      },
+      "description": {
+        "cz": "Profesionální střelnice v Domažlicích nabízí střelbu z široké škály zbraní pod vedením zkušených instruktorů. Ideální pro skupiny i jednotlivce.",
+        "de": "Professioneller Schießstand in Domažlice bietet Schießen mit einer Vielzahl von Waffen unter Anleitung erfahrener Instruktoren. Ideal für Gruppen und Einzelpersonen.",
+        "en": "Professional shooting range in Domažlice offering shooting with a wide range of weapons under the guidance of experienced instructors. Ideal for groups and individuals."
+      },
+      "hero_title": {
+        "cz": "Zažijte adrenalin jako nikdy předtím",
+        "de": "Erleben Sie Adrenalin wie noch nie zuvor",
+        "en": "Experience adrenaline like never before"
+      },
+      "hero_subtitle": {
+        "cz": "Profesionální střelnice s instruktory v Domažlicích",
+        "de": "Professioneller Schießstand mit Instruktoren in Domažlice",
+        "en": "Professional shooting range with instructors in Domažlice"
+      },
+      "intro_title": {
+        "cz": "Vítejte na Střelnici Sklep",
+        "de": "Willkommen bei Střelnice Sklep",
+        "en": "Welcome to Střelnice Sklep"
+      },
+      "intro_text": {
+        "cz": "Naše střelnice je ideálním místem pro všechny, kteří chtějí zažít vzrušení ze střelby pod vedení zkušených profesionálů. Nabízíme širokou škálu zbraní a balíčků pro začátečníky i pokročilé střelce.",
+        "de": "Unser Schießstand ist der ideale Ort für alle, die die Aufregung des Schießens unter Anleitung erfahrener Profis erleben möchten. Wir bieten eine breite Palette von Waffen und Paketen für Anfänger und fortgeschrittene Schützen.",
+        "en": "Our shooting range is the ideal place for anyone who wants to experience the excitement of shooting under the guidance of experienced professionals. We offer a wide range of weapons and packages for beginners and advanced shooters."
+      },
+      "feature_1_title": {
+        "cz": "Profesionální instruktoři",
+        "de": "Professionelle Instruktoren",
+        "en": "Professional Instructors"
+      },
+      "feature_1_text": {
+        "cz": "Naše instruktory mají lety zkušeností a zajistí vaši bezpečnost a maximální zážitek ze střelby.",
+        "de": "Unsere Instruktoren haben jahrelange Erfahrung und sorgen für Ihre Sicherheit und maximales Schießerlebnis.",
+        "en": "Our instructors have years of experience and ensure your safety and maximum shooting experience."
+      },
+      "feature_2_title": {
+        "cz": "Široká škála zbraní",
+        "de": "Breite Waffenauswahl",
+        "en": "Wide Range of Weapons"
+      },
+      "feature_2_text": {
+        "cz": "Nabízíme více než 100 různých zbraní od pistolí po pušky z různých historických období.",
+        "de": "Wir bieten mehr als 100 verschiedene Waffen von Pistolen bis zu Gewehren aus verschiedenen historischen Epochen.",
+        "en": "We offer more than 100 different weapons from pistols to rifles from various historical periods."
+      },
+      "feature_3_title": {
+        "cz": "Bezpečnost na prvním místě",
+        "de": "Sicherheit an erster Stelle",
+        "en": "Safety First"
+      },
+      "feature_3_text": {
+        "cz": "Dodržujeme nejvyšší bezpečnostní standardy a poskytujeme kompletní vybavení.",
+        "de": "Wir halten die höchsten Sicherheitsstandards ein und stellen eine vollständige Ausstattung bereit.",
+        "en": "We adhere to the highest safety standards and provide complete equipment."
+      }
+    },
+    "strelnice": {
+      "title": {
+        "cz": "Střelnice - Střelnice Sklep",
+        "de": "Schießstand - Střelnice Sklep",
+        "en": "Shooting Range - Střelnice Sklep"
+      },
+      "description": {
+        "cz": "Moderní vnitřní střelnice s délkou 25 metrů, 3 střeleckými pozicemi a automatickým odsuvným systémem cílů. Vysoce kvalitní větrání a profesionální osvětlení zajišťují komfortní podmínky.",
+        "de": "Moderner Innenschießstand mit 25 Metern Länge, 3 Schießpositionen und automatischem Zieldurchlaufsystem. Hochwertige Belüftung und professionelle Beleuchtung sorgen für komfortable Bedingungen.",
+        "en": "Modern indoor shooting range with 25 meters length, 3 shooting positions, and automatic target retrieval system. High-quality ventilation and professional lighting ensure comfortable conditions."
+      },
+      "intro_title": {
+        "cz": "Naše střelnice",
+        "de": "Unser Schießstand",
+        "en": "Our Shooting Range"
+      },
+      "intro_text": {
+        "cz": "Střelnice Sklep je plně vybavená vnitřní střelnice splňující všechny bezpečnostní normy. Nabízíme profesionální prostředí pro střelbu z ručních palných zbraní.",
+        "de": "Střelnice Sklep ist ein vollständig ausgestatteter Innenschießstand, der alle Sicherheitsstandards erfüllt. Wir bieten eine professionelle Umgebung für das Schießen mit Handfeuerwaffen.",
+        "en": "Střelnice Sklep is a fully equipped indoor shooting range meeting all safety standards. We offer a professional environment for shooting with handguns."
+      },
+      "features_title": {
+        "cz": "Vybavení střelnice",
+        "de": "Ausstattung des Schießstands",
+        "en": "Shooting Range Equipment"
+      },
+      "feature_length": {
+        "cz": "Délka střelby: 25 metrů",
+        "de": "Schusslänge: 25 Meter",
+        "en": "Shooting length: 25 meters"
+      },
+      "feature_positions": {
+        "cz": "3 střelecké pozice",
+        "de": "3 Schießpositionen",
+        "en": "3 shooting positions"
+      },
+      "feature_targets": {
+        "cz": "Automatický odsuvný systém cílů",
+        "de": "Automatisches Zieldurchlaufsystem",
+        "en": "Automatic target retrieval system"
+      },
+      "feature_ventilation": {
+        "cz": "Vysokokapacitní větrání",
+        "de": "Hochkapazitätsbelüftung",
+        "en": "High-capacity ventilation"
+      },
+      "feature_lighting": {
+        "cz": "Profesionální osvětlení",
+        "de": "Professionelle Beleuchtung",
+        "en": "Professional lighting"
+      },
+      "feature_safety": {
+        "cz": "Zóna pro nabití zbraně",
+        "de": "Ladebereich für Waffen",
+        "en": "Weapon loading area"
+      }
+    },
+    "zbrane": {
+      "title": {
+        "cz": "Zbraně - Střelnice Sklep",
+        "de": "Waffen - Střelnice Sklep",
+        "en": "Weapons - Střelnice Sklep"
+      },
+      "description": {
+        "cz": "Prozkoumejte naši sbírku více než 100 zbraní od historických pušek po moderní pistole. Každá zbraň je udržována v perfektním stavu a připravena k použití pod dohledem našich instruktorů.",
+        "de": "Erkunden Sie unsere Sammlung von über 100 Waffen von historischen Gewehren bis zu modernen Pistolen. Jede Waffe wird in perfektem Zustand gehalten und ist unter Aufsicht unserer Instruktoren einsatzbereit.",
+        "en": "Explore our collection of over 100 weapons from historical rifles to modern pistols. Each weapon is maintained in perfect condition and ready for use under the supervision of our instructors."
+      },
+      "intro_title": {
+        "cz": "Naše zbraňová sbírka",
+        "de": "Unsere Waffensammlung",
+        "en": "Our Weapon Collection"
+      },
+      "intro_text": {
+        "cz": "Nabízíme širokou škálu zbraní z různých historických období a kategorií. Od klasických pistolí až po vzácné vojenské pušky - každý si najde to pravé.",
+        "de": "Wir bieten eine breite Palette von Waffen aus verschiedenen historischen Epochen und Kategorien. Von klassischen Pistolen bis zu seltenen militärischen Gewehren - für jeden ist das Richtige dabei.",
+        "en": "We offer a wide range of weapons from various historical periods and categories. From classic pistols to rare military rifles - everyone will find the right one."
+      },
+      "gallery_intro": {
+        "cz": "Níže naleznete ukázku z naší sbírky. Pro kompletní seznam a rezervaci nás kontaktujte.",
+        "de": "Unten finden Sie einen Auszug aus unserer Sammlung. Für die vollständige Liste und Reservierung kontaktieren Sie uns bitte.",
+        "en": "Below you will find a sample of our collection. For the complete list and reservation, please contact us."
+      },
+      "view_details": {
+        "cz": "Zobrazit detaily",
+        "de": "Details anzeigen",
+        "en": "View Details"
+      }
+    },
+    "balicky": {
+      "title": {
+        "cz": "Balíčky - Střelnice Sklep",
+        "de": "Pakete - Střelnice Sklep",
+        "en": "Packages - Střelnice Sklep"
+      },
+      "description": {
+        "cz": "Vyberte si z našich 15 tematických balíčků, které jsou určeny pro různé úrovně zkušeností a zájmy. Každý balíček zahrnuje instruktáž, potřebnou výbavu a náboje.",
+        "de": "Wählen Sie aus unseren 15 thematischen Paketen, die für verschiedene Erfahrungsstufen und Interessen konzipiert sind. Jedes Paket enthält Anleitung, notwendige Ausrüstung und Munition.",
+        "en": "Choose from our 15 themed packages designed for different experience levels and interests. Each package includes instruction, necessary equipment, and ammunition."
+      },
+      "intro_title": {
+        "cz": "Naše balíčky",
+        "de": "Unsere Pakete",
+        "en": "Our Packages"
+      },
+      "intro_text": {
+        "cz": "Každý balíček je pečlivě sestaven tak, aby poskytl nezapomenutelný zážitek. Od rychlých úvodních balíčků až po rozsáhlé zážitky pro nadšence.",
+        "de": "Jedes Paket ist sorgfältig zusammengestellt, um ein unvergessliches Erlebnis zu bieten. Von schnellen Einführungspaketen bis hin zu umfangreichen Erlebnissen für Enthusiasten.",
+        "en": "Each package is carefully designed to provide an unforgettable experience. From quick introductory packages to extensive experiences for enthusiasts."
+      },
+      "packages": {
+        "vlastni_zbran": {
+          "cz": "Vlastní zbraň",
+          "de": "Eigene Waffe",
+          "en": "Own Weapon"
+        },
+        "obri_rana": {
+          "cz": "Obří rána",
+          "de": "Riesiger Schlag",
+          "en": "Big Impact"
+        },
+        "specialni_jednotky": {
+          "cz": "Speciální jednotky",
+          "de": "Spezialeinheiten",
+          "en": "Special Forces"
+        },
+        "vyzbroj_csla": {
+          "cz": "Výzbroj ČSLA",
+          "de": "ČSLA Bewaffnung",
+          "en": "ČSLA Armament"
+        },
+        "utocne_pusky": {
+          "cz": "Útočné pušky",
+          "de": "Sturmgewehre",
+          "en": "Assault Rifles"
+        },
+        "svetove_pistole": {
+          "cz": "Světové pistole",
+          "de": "Weltberühmte Pistolen",
+          "en": "World-Famous Pistols"
+        },
+        "ceske_moderni_zbrane": {
+          "cz": "České moderní zbraně",
+          "de": "Tschechische moderne Waffen",
+          "en": "Czech Modern Weapons"
+        },
+        "filmove_zbrane": {
+          "cz": "Filmové zbraně",
+          "de": "Filmwaffen",
+          "en": "Movie Weapons"
+        },
+        "big_boom": {
+          "cz": "Big Boom",
+          "de": "Big Boom",
+          "en": "Big Boom"
+        },
+        "lehke_kulomety": {
+          "cz": "Lehké kulomety",
+          "de": "Leichte Maschinengewehre",
+          "en": "Light Machine Guns"
+        },
+        "zbrane_policie_cr": {
+          "cz": "Zbraně policie ČR",
+          "de": "Waffen der tschechischen Polizei",
+          "en": "Czech Police Weapons"
+        },
+        "zbrane_kazdy_nema": {
+          "cz": "Zbraně které každý nemá",
+          "de": "Waffen, die nicht jeder hat",
+          "en": "Weapons Not Everyone Has"
+        },
+        "ii_svetova_valka": {
+          "cz": "II. světová válka",
+          "de": "Zweiter Weltkrieg",
+          "en": "World War II"
+        },
+        "zbrane_pdw": {
+          "cz": "Zbraně PDW",
+          "de": "PDW-Waffen",
+          "en": "PDW Weapons"
+        },
+        "vsestranne_operator": {
+          "cz": "Všestranný operátor",
+          "de": "Vielseitiger Operator",
+          "en": "Versatile Operator"
+        }
+      },
+      "includes": {
+        "cz": "Zahrnuje",
+        "de": "Enthält",
+        "en": "Includes"
+      },
+      "details": {
+        "cz": "Detaily",
+        "de": "Details",
+        "en": "Details"
+      }
+    },
+    "faq": {
+      "title": {
+        "cz": "Časté dotazy - Střelnice Sklep",
+        "de": "Häufig gestellte Fragen - Střelnice Sklep",
+        "en": "FAQ - Střelnice Sklep"
+      },
+      "description": {
+        "cz": "Zde najdete odpovědi na nejčastější dotazy týkající se naší střelnice, zbraní, balíčků a podmínek střelby.",
+        "de": "Hier finden Sie Antworten auf die häufigsten Fragen zu unserem Schießstand, Waffen, Paketen und Schießbedingungen.",
+        "en": "Here you will find answers to the most frequently asked questions about our shooting range, weapons, packages, and shooting conditions."
+      },
+      "section_instructors": {
+        "cz": "Instruktoři a bezpečnost",
+        "de": "Instruktoren und Sicherheit",
+        "en": "Instructors and Safety"
+      },
+      "section_own_weapons": {
+        "cz": "Vlastní zbraně",
+        "de": "Eigene Waffen",
+        "en": "Own Weapons"
+      },
+      "section_conditions": {
+        "cz": "Podmínky střelby",
+        "de": "Schießbedingungen",
+        "en": "Shooting Conditions"
+      },
+      "section_children": {
+        "cz": "Děti a mladiství",
+        "de": "Kinder und Jugendliche",
+        "en": "Children and Minors"
+      },
+      "question_1": {
+        "cz": "Jaké kvalifikace mají vaši instruktoři?",
+        "de": "Welche Qualifikationen haben Ihre Instruktoren?",
+        "en": "What qualifications do your instructors have?"
+      },
+      "answer_1": {
+        "cz": "Naši instruktoři jsou držiteli zbrojního průkazu a mají dlouholeté zkušenosti se střelbou z různých typů zbraní. Prošli speciálním školením a pravidelně se vzdělávají v oblasti bezpečnosti a střelecké přípravy.",
+        "de": "Unsere Instruktoren besitzen einen Waffenschein und verfügen über langjährige Erfahrung mit dem Schießen mit verschiedenen Waffentypen. Sie haben eine spezielle Ausbildung absolviert und bilden sich regelmäßig in den Bereichen Sicherheit und Schießausbildung weiter.",
+        "en": "Our instructors hold a firearms license and have extensive experience with shooting various types of weapons. They have undergone special training and regularly educate themselves in safety and shooting preparation."
+      },
+      "question_2": {
+        "cz": "Mohu přijít s vlastní zbraní?",
+        "de": "Kann ich mit meiner eigenen Waffe kommen?",
+        "en": "Can I come with my own weapon?"
+      },
+      "answer_2": {
+        "cz": "Ano, pokud máte platný zbrojní průkaz. Vaše zbraň musí být ve stavu, který vyhovuje zákonným požadavkům. Naší instruktorka/Instruktor provede prohlídku zbraně před střelbou.",
+        "de": "Ja, wenn Sie einen gültigen Waffenschein besitzen. Ihre Waffe muss sich in einem gesetzlich konformen Zustand befinden. Unser Instructor/Instruktorin wird vor dem Schießen eine Waffenprüfung durchführen.",
+        "en": "Yes, if you have a valid firearms license. Your weapon must be in a condition that meets legal requirements. Our instructor will inspect the weapon before shooting."
+      },
+      "question_3": {
+        "cz": "Jaké jsou podmínky pro střelbu?",
+        "de": "Was sind die Voraussetzungen für das Schießen?",
+        "en": "What are the conditions for shooting?"
+      },
+      "answer_3": {
+        "cz": "Střelba je povolena osobám starším 18 let. Mladiství od 15 let mohou střílet pouze v přítomnosti zákonného zástupce a s písemným souhlasem. Před střelbou je nutné podstoupit bezpečnostní instruktáž.",
+        "de": "Das Schießen ist für Personen ab 18 Jahren erlaubt. Jugendliche ab 15 Jahren dürfen nur in Anwesenheit eines gesetzlichen Vertreters und mit schriftlicher Zustimmung schießen. Vor dem Schießen ist eine Sicherheitsanleitung erforderlich.",
+        "en": "Shooting is allowed for persons over 18 years of age. Minors from 15 years may shoot only in the presence of a legal guardian and with written consent. Safety instruction is required before shooting."
+      },
+      "question_4": {
+        "cz": "Mohu přijít s dětmi?",
+        "de": "Kann ich mit Kindern kommen?",
+        "en": "Can I come with children?"
+      },
+      "answer_4": {
+        "cz": "Děti do 15 let mohou být přítomny na střelnici pouze jako pozorovatelé. Děti od 15 do 18 let mohou střílet pod dohledem zákonného zástupce a s písemným souhlasem.",
+        "de": "Kinder unter 15 Jahren dürfen den Schießstand nur als Beobachter betreten. Jugendliche von 15 bis 18 Jahren dürfen unter Aufsicht eines gesetzlichen Vertreters und mit schriftlicher Zustimmung schießen.",
+        "en": "Children under 15 may only be present at the shooting range as observers. Minors aged 15 to 18 may shoot under the supervision of a legal guardian and with written consent."
+      }
+    },
+    "gdpr": {
+      "title": {
+        "cz": "GDPR - Střelnice Sklep",
+        "de": "DSGVO - Střelnice Sklep",
+        "en": "GDPR - Střelnice Sklep"
+      },
+      "description": {
+        "cz": "Informace o ochraně osobních údajů v souladu s obecným nařízením o ochraně osobních údajů (GDPR).",
+        "de": "Informationen zum Schutz personenbezogener Daten in Übereinstimmung mit der Datenschutz-Grundverordnung (DSGVO).",
+        "en": "Information on personal data protection in accordance with the General Data Protection Regulation (GDPR)."
+      },
+      "intro_title": {
+        "cz": "Ochrana osobních údajů",
+        "de": "Schutz personenbezogener Daten",
+        "en": "Personal Data Protection"
+      },
+      "intro_text": {
+        "cz": "Střelnice Sklep si váží vašeho soukromí. Tyto informace vysvětlují, jaké údaje shromažďujeme, jak je používáme a jaká máte práva ve vztahu k vašim osobním údajům.",
+        "de": "Střelnice Sklep schätzt Ihre Privatsphäre. Diese Informationen erklären, welche Daten wir sammeln, wie wir sie verwenden und welche Rechte Sie in Bezug auf Ihre persönlichen Daten haben.",
+        "en": "Střelnice Sklep values your privacy. This information explains what data we collect, how we use it, and what rights you have regarding your personal data."
+      },
+      "section_1": {
+        "cz": "Kdo je správcem osobních údajů?",
+        "de": "Wer ist der Verantwortliche für personenbezogene Daten?",
+        "en": "Who is the data controller?"
+      },
+      "section_2": {
+        "cz": "Jaké údaje shromažďujeme?",
+        "de": "Welche Daten sammeln wir?",
+        "en": "What data do we collect?"
+      },
+      "section_3": {
+        "cz": "Za jakým účelem zpracováváme údaje?",
+        "de": "Zu welchem Zweck verarbeiten wir Daten?",
+        "en": "For what purpose do we process data?"
+      },
+      "section_4": {
+        "cz": "Jaká máte práva?",
+        "de": "Welche Rechte haben Sie?",
+        "en": "What are your rights?"
+      },
+      "section_5": {
+        "cz": "Kontakt",
+        "de": "Kontakt",
+        "en": "Contact"
+      }
+    },
+    "zbrojni_prukaz": {
+      "title": {
+        "cz": "Zbrojní průkaz - Střelnice Sklep",
+        "de": "Waffenschein - Střelnice Sklep",
+        "en": "Firearms License - Střelnice Sklep"
+      },
+      "description": {
+        "cz": "Získejte zbrojní průkaz pod vedením našich zkušených instruktorů. Nabízíme kompletní přípravu na zkoušky a individuální přístup.",
+        "de": "Erwerben Sie einen Waffenschein unter Anleitung unserer erfahrenen Instruktoren. Wir bieten vollständige Prüfungsvorbereitung und individuellen Ansatz.",
+        "en": "Get a firearms license under the guidance of our experienced instructors. We offer complete exam preparation and individual approach."
+      },
+      "intro_title": {
+        "cz": "Získání zbrojního průkazu",
+        "de": "Erwerb eines Waffenscheins",
+        "en": "Obtaining a Firearms License"
+      },
+      "intro_text": {
+        "cz": "Nabízíme komplexní přípravu na získání zbrojního průkazu ve všech kategoriích. Naši instruktoři vás provedou teoretickou i praktickou částí přípravy.",
+        "de": "Wir bieten umfassende Vorbereitung auf den Erwerb eines Waffenscheins in allen Kategorien. Unsere Instruktoren begleiten Sie durch den theoretischen und praktischen Teil der Vorbereitung.",
+        "en": "We offer comprehensive preparation for obtaining a firearms license in all categories. Our instructors will guide you through the theoretical and practical parts of the preparation."
+      },
+      "steps_title": {
+        "cz": "Proces získání zbrojního průkazu",
+        "de": "Prozess zum Erwerb eines Waffenscheins",
+        "en": "Firearms License Acquisition Process"
+      },
+      "step_1_title": {
+        "cz": "Registrace",
+        "de": "Registrierung",
+        "en": "Registration"
+      },
+      "step_1_text": {
+        "cz": "Zaregistrujte se u příslušné policejní správy a podjte žádost o vydání zbrojního průkazu.",
+        "de": "Registrieren Sie sich bei der zuständigen Polizeibehörde und stellen Sie einen Antrag auf Erteilung eines Waffenscheins.",
+        "en": "Register with the relevant police authority and apply for a firearms license."
+      },
+      "step_2_title": {
+        "cz": "Lékařská prohlídka",
+        "de": "Ärztliche Untersuchung",
+        "en": "Medical Examination"
+      },
+      "step_2_text": {
+        "cz": "Absolvujte lékařskou prohlídku prokazující bezúhonnost a zdravotní způsobilost.",
+        "de": "Absolvieren Sie eine ärztliche Untersuchung, die Unbescholtenheit und gesundheitliche Eignung nachweist.",
+        "en": "Undergo a medical examination proving lawfulness and medical fitness."
+      },
+      "step_3_title": {
+        "cz": "Teoretická příprava",
+        "de": "Theoretische Vorbereitung",
+        "en": "Theoretical Preparation"
+      },
+      "step_3_text": {
+        "cz": "Absolvujte teoretický výcvik zaměřený na legislativu, bezpečnost a ošetřování zbraní.",
+        "de": "Absolvieren Sie das theoretische Training mit Schwerpunkt auf Gesetzgebung, Sicherheit und Waffenpflege.",
+        "en": "Complete theoretical training focused on legislation, safety, and weapon maintenance."
+      },
+      "step_4_title": {
+        "cz": "Praktická příprava",
+        "de": "Praktische Vorbereitung",
+        "en": "Practical Preparation"
+      },
+      "step_4_text": {
+        "cz": "Proveďte praktický výcvink střelby pod vedením našich certifikovaných instruktorů.",
+        "de": "Führen Sie das praktische Schießtraining unter Anleitung unserer zertifizierten Instruktoren durch.",
+        "en": "Complete practical shooting training under the guidance of our certified instructors."
+      },
+      "step_5_title": {
+        "cz": "Zkoušky",
+        "de": "Prüfungen",
+        "en": "Exams"
+      },
+      "step_5_text": {
+        "cz": "Složte teoretickou a praktickou zkoušku před komisí Ministerstva vnitra.",
+        "de": "Bestehen Sie die theoretische und praktische Prüfung vor der Kommission des Innenministeriums.",
+        "en": "Pass the theoretical and practical exams before the Ministry of the Interior commission."
+      },
+      "cta_title": {
+        "cz": "Připravte se s námi",
+        "de": "Bereiten Sie sich mit uns vor",
+        "en": "Prepare With Us"
+      },
+      "cta_text": {
+        "cz": "Kontaktujte nás ještě dnes a získejte profesionální přípravu na získání zbrojního průkazu.",
+        "de": "Kontaktieren Sie uns noch heute und erhalten Sie professionelle Vorbereitung auf den Erwerb eines Waffenscheins.",
+        "en": "Contact us today and get professional preparation for obtaining a firearms license."
+      },
+      "cta_button": {
+        "cz": "Kontaktovat",
+        "de": "Kontaktieren",
+        "en": "Contact"
+      }
+    }
+  }
+}

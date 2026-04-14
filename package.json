@@ -1,0 +1,19 @@
+{
+  "name": "strelnicesklep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.mjs",
+    "build:ts": "npx tsc",
+    "build:all": "npx tsc && node build.mjs",
+    "serve": "npx serve output -p 3000",
+    "clean": "rm -rf output/*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^6.0.2"
+  }
+}
