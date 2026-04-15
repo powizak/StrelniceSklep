@@ -1,3 +1,25 @@
-<section class="page-gdpr">
-    <h1>{{i18n.nav.gdpr}}</h1>
-</section>
+<div class="page-gdpr">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+        <div class="container">
+            <ol>
+                <li><a href="{{link.index}}">{{i18n.nav.home}}</a></li>
+                <li>{{i18n.nav.gdpr}}</li>
+            </ol>
+        </div>
+    </nav>
+
+    <section class="page-header">
+        <div class="container text-center">
+            <h1>{{i18n.gdpr.title}}</h1>
+            <h2>{{i18n.gdpr.heading}}</h2>
+            <p>{{i18n.gdpr.intro}}</p>
+        </div>
+    </section>
+
+    <div class="content-wrapper container">
+        {{#each i18n.gdpr.sections}}
+        <h2>{{this.title}}</h2>
+        <p>{{this.text}}</p>
+        {{/each}}
+    </div>
+</div>

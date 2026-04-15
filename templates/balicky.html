@@ -1,4 +1,146 @@
-<section class="page-balicky">
-    <h1>{{i18n.packages.heading1}} {{i18n.packages.heading2}}</h1>
-    <p>{{i18n.packages.intro1}}</p>
-</section>
+<div class="page-balicky">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+        <div class="container">
+            <ol>
+                <li><a href="{{link.index}}">{{i18n.nav.home}}</a></li>
+                <li>{{i18n.nav.packages}}</li>
+            </ol>
+        </div>
+    </nav>
+
+    <section class="section">
+        <div class="container">
+            <div class="package-header">
+                <div class="package-header-item">
+                    <h2>{{i18n.packages.vlastni}}</h2>
+                </div>
+                <div class="package-header-item">
+                    <h2>{{i18n.packages.obriRana}}</h2>
+                </div>
+                <div class="package-header-item">
+                    <h2>{{i18n.packages.specialni}}</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container intro-section">
+            <h1>{{i18n.packages.heading1}} <span>{{i18n.packages.heading2}}</span></h1>
+            <p>{{i18n.packages.intro1}}</p>
+            <h2>{{i18n.packages.readyTitle}}</h2>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <div class="package-grid">
+                <div class="package-tile">
+                    <img class="tile-default-img" src="{{assetsPrefix}}assets/images/package-vlastni-zbran.jpg" alt="{{i18n.packages.vlastni}}" loading="lazy">
+                    <img class="tile-hover-img" src="{{assetsPrefix}}assets/images/package-vlastni-zbran-hover.jpg" alt="{{i18n.packages.vlastni}}" loading="lazy">
+                    <div class="tile-body">
+                        <h3>{{i18n.packages.vlastni}}</h3>
+                    </div>
+                </div>
+                <div class="package-tile">
+                    <img class="tile-default-img" src="{{assetsPrefix}}assets/images/package-obri-rana.jpg" alt="{{i18n.packages.obriRana}}" loading="lazy">
+                    <img class="tile-hover-img" src="{{assetsPrefix}}assets/images/package-obri-rana-hover.jpg" alt="{{i18n.packages.obriRana}}" loading="lazy">
+                    <div class="tile-body">
+                        <h3>{{i18n.packages.obriRana}}</h3>
+                    </div>
+                </div>
+                <div class="package-tile">
+                    <img class="tile-default-img" src="{{assetsPrefix}}assets/images/package-specialni-jednotky.jpg" alt="{{i18n.packages.specialni}}" loading="lazy">
+                    <img class="tile-hover-img" src="{{assetsPrefix}}assets/images/package-specialni-jednotky-hover.jpg" alt="{{i18n.packages.specialni}}" loading="lazy">
+                    <div class="tile-body">
+                        <h3>{{i18n.packages.specialni}}</h3>
+                    </div>
+                </div>
+                <div class="package-tile">
+                    <img class="tile-default-img" src="{{assetsPrefix}}assets/images/package-vyzbroj-csla.jpg" alt="{{i18n.packages.csla}}" loading="lazy">
+                    <img class="tile-hover-img" src="{{assetsPrefix}}assets/images/package-vyzbroj-csla-hover.jpg" alt="{{i18n.packages.csla}}" loading="lazy">
+                    <div class="tile-body">
+                        <h3>{{i18n.packages.csla}}</h3>
+                    </div>
+                </div>
+                <div class="package-tile">
+                    <img class="tile-default-img" src="{{assetsPrefix}}assets/images/package-utocne-pusky.jpg" alt="{{i18n.packages.utocne}}" loading="lazy">
+                    <img class="tile-hover-img" src="{{assetsPrefix}}assets/images/package-utocne-pusky-hover.jpg" alt="{{i18n.packages.utocne}}" loading="lazy">
+                    <div class="tile-body">
+                        <h3>{{i18n.packages.utocne}}</h3>
+                    </div>
+                </div>
+                <div class="package-tile">
+                    <img class="tile-default-img" src="{{assetsPrefix}}assets/images/package-svetove-pistole.jpg" alt="{{i18n.packages.svetove}}" loading="lazy">
+                    <img class="tile-hover-img" src="{{assetsPrefix}}assets/images/package-svetove-pistole-hover.jpg" alt="{{i18n.packages.svetove}}" loading="lazy">
+                    <div class="tile-body">
+                        <h3>{{i18n.packages.svetove}}</h3>
+                    </div>
+                </div>
+                <div class="package-tile">
+                    <img class="tile-default-img" src="{{assetsPrefix}}assets/images/package-ceske-moderni-zbrane.jpg" alt="{{i18n.packages.ceske}}" loading="lazy">
+                    <img class="tile-hover-img" src="{{assetsPrefix}}assets/images/package-ceske-moderni-zbrane-hover.jpg" alt="{{i18n.packages.ceske}}" loading="lazy">
+                    <div class="tile-body">
+                        <h3>{{i18n.packages.ceske}}</h3>
+                    </div>
+                </div>
+                <div class="package-tile">
+                    <img class="tile-default-img" src="{{assetsPrefix}}assets/images/package-filmove-zbrane.jpg" alt="{{i18n.packages.filmove}}" loading="lazy">
+                    <img class="tile-hover-img" src="{{assetsPrefix}}assets/images/package-filmove-zbrane-hover.jpg" alt="{{i18n.packages.filmove}}" loading="lazy">
+                    <div class="tile-body">
+                        <h3>{{i18n.packages.filmove}}</h3>
+                    </div>
+                </div>
+                <div class="package-tile">
+                    <img class="tile-default-img" src="{{assetsPrefix}}assets/images/package-big-boom.jpg" alt="{{i18n.packages.bigBoom}}" loading="lazy">
+                    <img class="tile-hover-img" src="{{assetsPrefix}}assets/images/package-big-boom-hover.jpg" alt="{{i18n.packages.bigBoom}}" loading="lazy">
+                    <div class="tile-body">
+                        <h3>{{i18n.packages.bigBoom}}</h3>
+                    </div>
+                </div>
+                <div class="package-tile">
+                    <img class="tile-default-img" src="{{assetsPrefix}}assets/images/package-lehke-kulomety.jpg" alt="{{i18n.packages.lehke}}" loading="lazy">
+                    <img class="tile-hover-img" src="{{assetsPrefix}}assets/images/package-lehke-kulomety-hover.jpg" alt="{{i18n.packages.lehke}}" loading="lazy">
+                    <div class="tile-body">
+                        <h3>{{i18n.packages.lehke}}</h3>
+                    </div>
+                </div>
+                <div class="package-tile">
+                    <img class="tile-default-img" src="{{assetsPrefix}}assets/images/package-zbrane-policie-cr.jpg" alt="{{i18n.packages.policie}}" loading="lazy">
+                    <img class="tile-hover-img" src="{{assetsPrefix}}assets/images/package-zbrane-policie-cr-hover.jpg" alt="{{i18n.packages.policie}}" loading="lazy">
+                    <div class="tile-body">
+                        <h3>{{i18n.packages.policie}}</h3>
+                    </div>
+                </div>
+                <div class="package-tile">
+                    <img class="tile-default-img" src="{{assetsPrefix}}assets/images/package-zbrane-ktere-kazdy-nema.jpg" alt="{{i18n.packages.kazdyNema}}" loading="lazy">
+                    <img class="tile-hover-img" src="{{assetsPrefix}}assets/images/package-zbrane-ktere-kazdy-nema-hover.jpg" alt="{{i18n.packages.kazdyNema}}" loading="lazy">
+                    <div class="tile-body">
+                        <h3>{{i18n.packages.kazdyNema}}</h3>
+                    </div>
+                </div>
+                <div class="package-tile">
+                    <img class="tile-default-img" src="{{assetsPrefix}}assets/images/package-svetova-valka.jpg" alt="{{i18n.packages.ww2}}" loading="lazy">
+                    <img class="tile-hover-img" src="{{assetsPrefix}}assets/images/package-svetova-valka-hover.jpg" alt="{{i18n.packages.ww2}}" loading="lazy">
+                    <div class="tile-body">
+                        <h3>{{i18n.packages.ww2}}</h3>
+                    </div>
+                </div>
+                <div class="package-tile">
+                    <img class="tile-default-img" src="{{assetsPrefix}}assets/images/package-zbrane-pdw.jpg" alt="{{i18n.packages.pdw}}" loading="lazy">
+                    <img class="tile-hover-img" src="{{assetsPrefix}}assets/images/package-zbrane-pdw-hover.jpg" alt="{{i18n.packages.pdw}}" loading="lazy">
+                    <div class="tile-body">
+                        <h3>{{i18n.packages.pdw}}</h3>
+                    </div>
+                </div>
+                <div class="package-tile">
+                    <img class="tile-default-img" src="{{assetsPrefix}}assets/images/package-vsestranny-operator.jpg" alt="{{i18n.packages.vsestranny}}" loading="lazy">
+                    <img class="tile-hover-img" src="{{assetsPrefix}}assets/images/package-vsestranny-operator-hover.jpg" alt="{{i18n.packages.vsestranny}}" loading="lazy">
+                    <div class="tile-body">
+                        <h3>{{i18n.packages.vsestranny}}</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

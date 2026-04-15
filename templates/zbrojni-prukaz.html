@@ -1,4 +1,80 @@
-<section class="page-zbrojni-prukaz">
-    <h1>{{i18n.gunLicense.title}}</h1>
-    <p>{{i18n.gunLicense.intro}}</p>
-</section>
+<div class="page-zbrojni">
+    <!-- Breadcrumb -->
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+        <div class="container">
+            <ol>
+                <li><a href="{{link.index}}">{{i18n.nav.home}}</a></li>
+                <li>{{i18n.nav.gunLicense}}</li>
+            </ol>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <section class="section page-header">
+        <div class="container text-center">
+            <h1>{{i18n.gunLicense.title}}</h1>
+            <h2>{{i18n.gunLicense.subtitle}}</h2>
+            <p>{{i18n.gunLicense.intro}}</p>
+        </div>
+    </section>
+
+    <!-- 5-Step Guide -->
+    <section class="section">
+        <div class="container">
+            <ol class="steps-list">
+                <!-- Step 1 -->
+                <li>
+                    <div>
+                        <h3>{{i18n.gunLicense.step1Title}}</h3>
+                        <ul>
+                            <li>{{i18n.gunLicense.step1Age}}</li>
+                            <li>{{i18n.gunLicense.step1Criminal}}</li>
+                            <li>{{i18n.gunLicense.step1Medical}}</li>
+                        </ul>
+                    </div>
+                </li>
+                <!-- Step 2 -->
+                <li>
+                    <div>
+                        <h3>{{i18n.gunLicense.step2Title}}</h3>
+                        <p>{{i18n.gunLicense.step2Text}}</p>
+                    </div>
+                </li>
+                <!-- Step 3 -->
+                <li>
+                    <div>
+                        <h3>{{i18n.gunLicense.step3Title}}</h3>
+                        <p>{{i18n.gunLicense.step3Text}}</p>
+                    </div>
+                </li>
+                <!-- Step 4 -->
+                <li>
+                    <div>
+                        <h3>{{i18n.gunLicense.step4Title}}</h3>
+                        <ul>
+                            <li>{{i18n.gunLicense.step4Theory}}</li>
+                            <li>{{i18n.gunLicense.step4Practice}}</li>
+                        </ul>
+                    </div>
+                </li>
+                <!-- Step 5 -->
+                <li>
+                    <div>
+                        <h3>{{i18n.gunLicense.step5Title}}</h3>
+                        <p>{{i18n.gunLicense.step5Text}}</p>
+                    </div>
+                </li>
+            </ol>
+        </div>
+    </section>
+
+    <!-- CTA Banner -->
+    <section class="section">
+        <div class="container">
+            <div class="cta-banner">
+                <h2>{{i18n.gunLicense.cta}}</h2>
+                <a href="{{link.strelnice}}" class="btn btn-primary">{{i18n.nav.shootingRange}}</a>
+            </div>
+        </div>
+    </section>
+</div>

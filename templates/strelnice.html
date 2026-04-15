@@ -1,4 +1,84 @@
-<section class="page-strelnice">
-    <h1>{{i18n.nav.shootingRange}}</h1>
-    <p>{{i18n.home.offerIntro}}</p>
-</section>
+<div class="page-strelnice">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+        <div class="container">
+            <ol>
+                <li><a href="{{link.index}}">{{i18n.nav.home}}</a></li>
+                <li>{{i18n.nav.shootingRange}}</li>
+            </ol>
+        </div>
+    </nav>
+
+    <section class="section">
+        <div class="container">
+            <div class="page-header">
+                <div>
+                    <h1>{{i18n.strelnice.heading}}</h1>
+                    <p class="lead">{{i18n.strelnice.subtitle}}</p>
+                    <p>{{i18n.strelnice.heroTagline}}</p>
+                </div>
+                <img src="{{assetsPrefix}}assets/images/range-heading.png" alt="{{i18n.strelnice.title}}" loading="lazy">
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <h2>{{i18n.strelnice.introHeading}}</h2>
+            <p>{{i18n.strelnice.introDescription}}</p>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <h2>{{i18n.strelnice.forWhoTitle}}</h2>
+            <ul>
+                <li>{{i18n.strelnice.forWhoCorporate}}</li>
+                <li>{{i18n.strelnice.forWhoIndividuals}}</li>
+                <li>{{i18n.strelnice.forWhoLicense}}</li>
+                <li>{{i18n.strelnice.forWhoFamilies}}</li>
+            </ul>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <h2>{{i18n.strelnice.expectTitle}}</h2>
+            <ul>
+                <li>{{i18n.strelnice.expectPackages}}</li>
+                <li>{{i18n.strelnice.expectInstructors}}</li>
+            </ul>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <h2>{{i18n.strelnice.descriptionTitle}}</h2>
+            <p>{{i18n.strelnice.description}}</p>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <h2>{{i18n.strelnice.featuresTitle}}</h2>
+            <ul class="features-list">
+                {{#each i18n.strelnice.features}}
+                <li>{{this}}</li>
+                {{/each}}
+            </ul>
+        </div>
+    </section>
+
+    <section class="section history-section">
+        <div class="container">
+            <h2>{{i18n.strelnice.historyTitle}}</h2>
+            <p>{{i18n.strelnice.history}}</p>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <h2>{{i18n.strelnice.barTitle}}</h2>
+            <p>{{i18n.strelnice.barDescription}}</p>
+        </div>
+    </section>
+</div>
