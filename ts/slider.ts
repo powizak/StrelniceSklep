@@ -1,22 +1,23 @@
 export function initSlider(): void {
-  const container = document.querySelector<HTMLDivElement>('.hero-slider');
+  const container = document.querySelector<HTMLDivElement>('[data-slider]');
   if (!container) return;
 
-  const slides = Array.from(container.querySelectorAll<HTMLDivElement>('.hero-slide'));
+  const slides = Array.from(container.querySelectorAll<HTMLDivElement>('.slide'));
   if (slides.length === 0) return;
 
-  const prevBtn = container.querySelector<HTMLButtonElement>('.slider-prev');
-  const nextBtn = container.querySelector<HTMLButtonElement>('.slider-next');
+  const prevBtn = container.querySelector<HTMLButtonElement>('.slider-arrow.prev');
+  const nextBtn = container.querySelector<HTMLButtonElement>('.slider-arrow.next');
   const dotsContainer = container.querySelector<HTMLDivElement>('.slider-dots');
 
   let currentIndex = 0;
   let timer: ReturnType<typeof setInterval> | undefined;
 
+  const dotBtns = dotsContainer
+    ? Array.from(dotsContainer.querySelectorAll<HTMLButtonElement>('button'))
+    : [];
+
   const showSlide = (index: number): void => {
     slides.forEach((s) => s.classList.remove('active'));
-    const dotBtns = dotsContainer
-      ? Array.from(dotsContainer.querySelectorAll<HTMLButtonElement>('.slider-dot'))
-      : [];
     dotBtns.forEach((d) => d.classList.remove('active'));
 
     currentIndex = (index + slides.length) % slides.length;
@@ -39,18 +40,12 @@ export function initSlider(): void {
     }
   };
 
-  if (dotsContainer) {
-    slides.forEach((_, i) => {
-      const dot = document.createElement('button');
-      dot.classList.add('slider-dot');
-      dot.setAttribute('aria-label', `Go to slide ${i + 1}`);
-      dot.addEventListener('click', () => {
-        showSlide(i);
-        startAutoPlay();
-      });
-      dotsContainer.appendChild(dot);
+  dotBtns.forEach((dot, i) => {
+    dot.addEventListener('click', () => {
+      showSlide(i);
+      startAutoPlay();
     });
-  }
+  });
 
   if (prevBtn) {
     prevBtn.addEventListener('click', () => {

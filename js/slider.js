@@ -1,20 +1,20 @@
 export function initSlider() {
-    const container = document.querySelector('.hero-slider');
+    const container = document.querySelector('[data-slider]');
     if (!container)
         return;
-    const slides = Array.from(container.querySelectorAll('.hero-slide'));
+    const slides = Array.from(container.querySelectorAll('.slide'));
     if (slides.length === 0)
         return;
-    const prevBtn = container.querySelector('.slider-prev');
-    const nextBtn = container.querySelector('.slider-next');
+    const prevBtn = container.querySelector('.slider-arrow.prev');
+    const nextBtn = container.querySelector('.slider-arrow.next');
     const dotsContainer = container.querySelector('.slider-dots');
     let currentIndex = 0;
     let timer;
+    const dotBtns = dotsContainer
+        ? Array.from(dotsContainer.querySelectorAll('button'))
+        : [];
     const showSlide = (index) => {
         slides.forEach((s) => s.classList.remove('active'));
-        const dotBtns = dotsContainer
-            ? Array.from(dotsContainer.querySelectorAll('.slider-dot'))
-            : [];
         dotBtns.forEach((d) => d.classList.remove('active'));
         currentIndex = (index + slides.length) % slides.length;
         slides[currentIndex].classList.add('active');
@@ -33,18 +33,12 @@ export function initSlider() {
             timer = undefined;
         }
     };
-    if (dotsContainer) {
-        slides.forEach((_, i) => {
-            const dot = document.createElement('button');
-            dot.classList.add('slider-dot');
-            dot.setAttribute('aria-label', `Go to slide ${i + 1}`);
-            dot.addEventListener('click', () => {
-                showSlide(i);
-                startAutoPlay();
-            });
-            dotsContainer.appendChild(dot);
+    dotBtns.forEach((dot, i) => {
+        dot.addEventListener('click', () => {
+            showSlide(i);
+            startAutoPlay();
         });
-    }
+    });
     if (prevBtn) {
         prevBtn.addEventListener('click', () => {
             prevSlide();
