@@ -2,19 +2,19 @@
   "lang": "cs",
   "locale": "cs_CZ",
   "seo": {
-    "index": {
+    "home": {
       "title": "Střelnice Sklep – Krytá střelnice Domažlice",
       "description": "Krytá střelnice v centru Domažlic v historickém objektu. Tři palebná stanoviště, 25 metrů, automatické terče. Střelecké balíčky pro začátečníky i pokročilé."
     },
-    "strelnice": {
+    "shootingRange": {
       "title": "Střelnice – Střelnice Sklep Domažlice",
       "description": "Moderní krytá střelnice v historickém objektu pivovaru U Svaté studny z roku 1341. Tři palebná stanoviště, 25 metrů, automatické pohyblivé terče, bezdrátový video přenos."
     },
-    "zbrane": {
+    "weapons": {
       "title": "Zbraně – Střelnice Sklep Domažlice",
       "description": "Galerie zbraní střelnice Sklep. Historické i moderní zbraně – pistole, revolvery, samopaly, útočné pušky a další. Tematické balíčky pro každého."
     },
-    "balicky": {
+    "packages": {
       "title": "Balíčky – Střelnice Sklep Domažlice",
       "description": "Střelecké balíčky na kryté střelnici Sklep. Od rekreační střelby po profesionální trénink. Vlastní zbraň, Big Boom, Speciální jednotky a další."
     },
@@ -26,7 +26,7 @@
       "title": "GDPR – Ochrana osobních údajů – Střelnice Sklep",
       "description": "Podmínky ochrany osobních údajů společnosti West Bohemian Armament Company, s.r.o. Zpracování osobních údajů dle nařízení GDPR."
     },
-    "zbrojniPrukaz": {
+    "gunLicense": {
       "title": "Zbrojní průkaz – Střelnice Sklep Domažlice",
       "description": "Podmínky pro získání zbrojního průkazu. Průvodce krok za krokem – od základních požadavků po složení zkoušky odborné způsobilosti."
     }
@@ -38,7 +38,8 @@
     "packages": "Balíčky",
     "faq": "FAQ",
     "gunLicense": "Zbrojní průkaz",
-    "gdpr": "GDPR"
+    "gdpr": "GDPR",
+    "skipToContent": "Přejít k obsahu"
   },
   "footer": {
     "company": "West Bohemian Armament Company, s.r.o.",

@@ -2,19 +2,19 @@
   "lang": "de",
   "locale": "de_DE",
   "seo": {
-    "index": {
+    "home": {
       "title": "Schießstand Sklep – Indoor-Schießstand Domažlice",
       "description": "Indoor-Schießstand im Zentrum von Domažlice in einem historischen Gebäude. Drei Feuerstellungen, 25 Meter, automatische Ziele. Schießpakete für Anfänger und Fortgeschrittene."
     },
-    "strelnice": {
+    "shootingRange": {
       "title": "Schießstand – Schießstand Sklep Domažlice",
       "description": "Moderner Indoor-Schießstand im historischen Brauereigebäude U Svaté studny aus dem Jahr 1341. Drei Feuerstellungen, 25 Meter, automatisch bewegliche Ziele, drahtlose Videoübertragung."
     },
-    "zbrane": {
+    "weapons": {
       "title": "Waffen – Schießstand Sklep Domažlice",
       "description": "Waffengalerie des Schießstands Sklep. Historische und moderne Waffen – Pistolen, Revolver, Maschinenpistolen, Sturmgewehre und mehr. Thematische Pakete für jeden."
     },
-    "balicky": {
+    "packages": {
       "title": "Pakete – Schießstand Sklep Domažlice",
       "description": "Schießpakete am Indoor-Schießstand Sklep. Vom Freizeitschießen bis zum professionellen Training. Eigene Waffe, Big Boom, Spezialeinheiten und mehr."
     },
@@ -26,7 +26,7 @@
       "title": "GDPR – Datenschutz – Schießstand Sklep",
       "description": "Datenschutzbestimmungen der West Bohemian Armament Company, s.r.o. Verarbeitung personenbezogener Daten gemäß der GDPR-Verordnung."
     },
-    "zbrojniPrukaz": {
+    "gunLicense": {
       "title": "Waffenschein – Schießstand Sklep Domažlice",
       "description": "Bedingungen für den Erwerb des Waffenscheins. Eine Schritt-für-Schritt-Anleitung – von den Grundanforderungen bis zur Ablegung der Fachkompetenzprüfung."
     }
@@ -38,7 +38,8 @@
     "packages": "Pakete",
     "faq": "FAQ",
     "gunLicense": "Waffenschein",
-    "gdpr": "GDPR"
+    "gdpr": "GDPR",
+    "skipToContent": "Zum Inhalt"
   },
   "footer": {
     "company": "West Bohemian Armament Company, s.r.o.",

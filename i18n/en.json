@@ -2,19 +2,19 @@
   "lang": "en",
   "locale": "en_US",
   "seo": {
-    "index": {
+    "home": {
       "title": "Shooting Range Sklep – Indoor Shooting Range Domažlice",
       "description": "Indoor shooting range in the center of Domažlice in a historic building. Three firing positions, 25 meters, automatic targets. Shooting packages for beginners and advanced."
     },
-    "strelnice": {
+    "shootingRange": {
       "title": "Shooting Range – Shooting Range Sklep Domažlice",
       "description": "Modern indoor shooting range in a historic brewery building U Svaté studny from 1341. Three firing positions, 25 meters, automatic moving targets, wireless video transmission."
     },
-    "zbrane": {
+    "weapons": {
       "title": "Weapons – Shooting Range Sklep Domažlice",
       "description": "Weapons gallery of the Sklep shooting range. Historical and modern weapons – pistols, revolvers, submachine guns, assault rifles and more. Themed packages for everyone."
     },
-    "balicky": {
+    "packages": {
       "title": "Packages – Shooting Range Sklep Domažlice",
       "description": "Shooting packages at the Sklep indoor shooting range. From recreational shooting to professional training. Own weapon, Big Boom, Special units and more."
     },
@@ -26,7 +26,7 @@
       "title": "GDPR – Privacy Policy – Shooting Range Sklep",
       "description": "Privacy policy of West Bohemian Armament Company, s.r.o. Processing of personal data according to GDPR regulation."
     },
-    "zbrojniPrukaz": {
+    "gunLicense": {
       "title": "Gun License – Shooting Range Sklep Domažlice",
       "description": "Conditions for obtaining a gun license. A step-by-step guide – from basic requirements to passing the professional competence exam."
     }
@@ -38,7 +38,8 @@
     "packages": "Packages",
     "faq": "FAQ",
     "gunLicense": "Gun License",
-    "gdpr": "GDPR"
+    "gdpr": "GDPR",
+    "skipToContent": "Skip to content"
   },
   "footer": {
     "company": "West Bohemian Armament Company, s.r.o.",
