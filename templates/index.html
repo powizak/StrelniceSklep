@@ -1,5 +1,113 @@
-<section class="hero">
-    <h1>{{i18n.home.preparing}}</h1>
-    <p>{{i18n.home.tagline}}</p>
-    <p>{{i18n.home.looking}}</p>
+<section class="hero-slider" data-slider>
+    <div class="slide active">
+        <img src="{{assetsPrefix}}assets/images/hero-1.png" alt="{{i18n.home.tagline}}" loading="eager">
+    </div>
+    <div class="slide">
+        <img src="{{assetsPrefix}}assets/images/hero-2.png" alt="{{i18n.home.tagline}}" loading="lazy">
+    </div>
+    <div class="slide">
+        <img src="{{assetsPrefix}}assets/images/hero-3.png" alt="{{i18n.home.tagline}}" loading="lazy">
+    </div>
+    <div class="slide">
+        <img src="{{assetsPrefix}}assets/images/hero-4.png" alt="{{i18n.home.tagline}}" loading="lazy">
+    </div>
+    <div class="slide">
+        <img src="{{assetsPrefix}}assets/images/hero-5.png" alt="{{i18n.home.tagline}}" loading="lazy">
+    </div>
+    <div class="slide">
+        <img src="{{assetsPrefix}}assets/images/hero-6.png" alt="{{i18n.home.tagline}}" loading="lazy">
+    </div>
+    <div class="slide">
+        <img src="{{assetsPrefix}}assets/images/hero-7.png" alt="{{i18n.home.tagline}}" loading="lazy">
+    </div>
+    <div class="slide">
+        <img src="{{assetsPrefix}}assets/images/hero-8.png" alt="{{i18n.home.tagline}}" loading="lazy">
+    </div>
+    <button class="slider-arrow prev" aria-label="Previous"><i class="fas fa-chevron-left"></i></button>
+    <button class="slider-arrow next" aria-label="Next"><i class="fas fa-chevron-right"></i></button>
+    <div class="slider-dots">
+        <button class="active" aria-label="Slide 1"></button>
+        <button aria-label="Slide 2"></button>
+        <button aria-label="Slide 3"></button>
+        <button aria-label="Slide 4"></button>
+        <button aria-label="Slide 5"></button>
+        <button aria-label="Slide 6"></button>
+        <button aria-label="Slide 7"></button>
+        <button aria-label="Slide 8"></button>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container text-center">
+        <h1>{{i18n.home.preparing}}</h1>
+        <p class="lead">{{i18n.home.tagline}}</p>
+        <p>{{i18n.home.looking}}</p>
+    </div>
+</section>
+
+<div class="social-row container">
+    <a href="#" aria-label="Facebook"><i class="fab fa-facebook-f"></i> Facebook</a>
+    <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i> Instagram</a>
+</div>
+
+<section class="section">
+    <div class="container">
+        <div class="intro-section">
+            <div class="intro-col">
+                <img src="{{assetsPrefix}}assets/images/range-main.jpg" alt="{{i18n.home.rangeName}}" loading="lazy">
+                <p>{{i18n.home.offerIntro}}</p>
+            </div>
+            <div class="intro-col">
+                <h2>{{i18n.home.offerTitle}}</h2>
+                <ul>
+                    <li>{{i18n.home.offer1}}</li>
+                    <li>{{i18n.home.offer2}}</li>
+                    <li>{{i18n.home.offer3}}</li>
+                    <li>{{i18n.home.offer4}}</li>
+                    <li>{{i18n.home.offer5}}</li>
+                </ul>
+            </div>
+            <div class="intro-col">
+                <img src="{{assetsPrefix}}assets/images/range-main.jpg" alt="{{i18n.home.rangeName}}" loading="lazy">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <div class="feature-tiles">
+            <div class="tile-card">
+                <img src="{{assetsPrefix}}assets/images/target-icon.png" alt="" loading="lazy">
+                <div class="tile-body">
+                    <h3>{{i18n.home.feature1Title}}</h3>
+                </div>
+                <a href="{{link.strelnice}}" class="tile-link" aria-label="{{i18n.home.feature1Title}}"></a>
+            </div>
+            <div class="tile-card">
+                <img src="{{assetsPrefix}}assets/images/target-icon.png" alt="" loading="lazy">
+                <div class="tile-body">
+                    <h3>{{i18n.home.feature2Title}}</h3>
+                </div>
+                <a href="{{link.balicky}}" class="tile-link" aria-label="{{i18n.home.feature2Title}}"></a>
+            </div>
+            <div class="center-image">
+                <img src="{{assetsPrefix}}assets/images/range-heading.png" alt="Střelnice Sklep" loading="lazy">
+            </div>
+            <div class="tile-card">
+                <img src="{{assetsPrefix}}assets/images/target-icon.png" alt="" loading="lazy">
+                <div class="tile-body">
+                    <h3>{{i18n.home.feature3Title}}</h3>
+                </div>
+                <a href="{{link.zbrane}}" class="tile-link" aria-label="{{i18n.home.feature3Title}}"></a>
+            </div>
+            <div class="tile-card">
+                <img src="{{assetsPrefix}}assets/images/target-icon.png" alt="" loading="lazy">
+                <div class="tile-body">
+                    <h3>{{i18n.home.feature4Title}}</h3>
+                </div>
+                <a href="{{link.zbrojni-prukaz}}" class="tile-link" aria-label="{{i18n.home.feature4Title}}"></a>
+            </div>
+        </div>
+    </div>
 </section>

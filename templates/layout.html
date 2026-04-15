@@ -4,34 +4,112 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {{{seoHead}}}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Open+Sans:wght@400;600&family=Permanent+Marker&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="{{assetsPrefix}}css/style.css">
     {{{jsonLd}}}
 </head>
 <body>
-    <nav>
-        <a href="{{link.index}}">{{i18n.nav.home}}</a>
-        <a href="{{link.strelnice}}">{{i18n.nav.shootingRange}}</a>
-        <a href="{{link.zbrane}}">{{i18n.nav.weapons}}</a>
-        <a href="{{link.balicky}}">{{i18n.nav.packages}}</a>
-        <a href="{{link.faq}}">{{i18n.nav.faq}}</a>
-        <a href="{{link.zbrojni-prukaz}}">{{i18n.nav.gunLicense}}</a>
-        <a href="{{link.gdpr}}">{{i18n.nav.gdpr}}</a>
-        <span class="lang-switch">
-            <a href="{{langLink.cz}}">CZ</a>
-            <a href="{{langLink.en}}">EN</a>
-            <a href="{{langLink.de}}">DE</a>
-        </span>
+    <a href="#main-content" class="skip-link">{{i18n.nav.skipToContent}}</a>
+
+    <header class="site-header">
+        <div class="header-logo">
+            <a href="{{link.index}}"><img src="{{assetsPrefix}}assets/images/logo.png" alt="Střelnice Sklep" width="200" height="80"></a>
+        </div>
+        <div class="header-phone">
+            <a href="tel:+420777263031"><i class="fas fa-phone"></i> +420 777 263 031</a>
+        </div>
+        <div class="header-partners">
+            <img src="{{assetsPrefix}}assets/images/partner-logo.png" alt="Partner">
+        </div>
+    </header>
+
+    <nav class="main-nav">
+        <div class="container">
+            <button class="nav-toggle" aria-label="Menu"><i class="fas fa-bars"></i></button>
+            <ul>
+                <li><a href="{{link.index}}">{{i18n.nav.home}}</a></li>
+                <li><a href="{{link.strelnice}}">{{i18n.nav.shootingRange}}</a></li>
+                <li><a href="{{link.zbrane}}">{{i18n.nav.weapons}}</a></li>
+                <li><a href="{{link.balicky}}">{{i18n.nav.packages}}</a></li>
+                <li><a href="{{link.faq}}">{{i18n.nav.faq}}</a></li>
+                <li><a href="{{link.zbrojni-prukaz}}">{{i18n.nav.gunLicense}}</a></li>
+                <li><a href="{{link.gdpr}}">{{i18n.nav.gdpr}}</a></li>
+            </ul>
+            <div class="lang-switcher">
+                <a href="{{langLink.cz}}">CZ</a>
+                <span class="separator">|</span>
+                <a href="{{langLink.en}}">EN</a>
+                <span class="separator">|</span>
+                <a href="{{langLink.de}}">DE</a>
+            </div>
+        </div>
     </nav>
 
-    <main>
+    <main id="main-content">
         {{{body}}}
     </main>
 
-    <footer>
-        <p>{{i18n.footer.company}}</p>
-        <p>{{i18n.footer.rangeAddress}} — {{i18n.footer.street}}, {{i18n.footer.rangeCity}}</p>
-        <p>{{i18n.footer.copyright}}</p>
+    <footer class="site-footer">
+        <div class="footer-grid container">
+            <div>
+                <p>{{i18n.footer.company}}</p>
+                <p>{{i18n.footer.rangeAddress}}</p>
+                <p>{{i18n.footer.street}}</p>
+                <p>{{i18n.footer.rangeCity}}</p>
+                <p>{{i18n.footer.contact}}</p>
+                <p>{{i18n.footer.phone}}</p>
+            </div>
+            <div>
+                <h4>{{i18n.footer.menu}}</h4>
+                <ul>
+                    <li><a href="{{link.index}}">{{i18n.nav.home}}</a></li>
+                    <li><a href="{{link.strelnice}}">{{i18n.nav.shootingRange}}</a></li>
+                    <li><a href="{{link.zbrane}}">{{i18n.nav.weapons}}</a></li>
+                    <li><a href="{{link.balicky}}">{{i18n.nav.packages}}</a></li>
+                    <li><a href="{{link.faq}}">{{i18n.nav.faq}}</a></li>
+                    <li><a href="{{link.zbrojni-prukaz}}">{{i18n.nav.gunLicense}}</a></li>
+                    <li><a href="{{link.gdpr}}">{{i18n.nav.gdpr}}</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4>{{i18n.footer.contact}}</h4>
+                <p><i class="fas fa-phone"></i> {{i18n.footer.phone}}</p>
+                <p><i class="fas fa-envelope"></i> info@strelnicesklep.cz</p>
+            </div>
+            <div class="footer-social">
+                <a href="#" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+                <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>{{i18n.footer.copyright}}</p>
+            <p>{{i18n.footer.taglineSub}}</p>
+        </div>
     </footer>
+
+    <div class="cookie-consent" id="cookie-consent">
+        <div class="container">
+            <p><strong>{{i18n.cookies.heading}}</strong> {{i18n.cookies.description}}</p>
+            <div class="cookie-options">
+                <label><input type="checkbox" checked disabled> {{i18n.cookies.functional}}</label>
+                <label><input type="checkbox" id="cookie-statistics"> {{i18n.cookies.statistics}}</label>
+            </div>
+            <div class="cookie-buttons">
+                <button class="btn btn-outline" id="cookie-accept-selected">{{i18n.cookies.acceptSelected}}</button>
+                <button class="btn btn-primary" id="cookie-accept-all">{{i18n.cookies.acceptAll}}</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="lightbox-overlay" id="lightbox">
+        <button class="lightbox-close" aria-label="Close"><i class="fas fa-times"></i></button>
+        <button class="lightbox-prev" aria-label="Previous"><i class="fas fa-chevron-left"></i></button>
+        <button class="lightbox-next" aria-label="Next"><i class="fas fa-chevron-right"></i></button>
+        <img src="" alt="">
+    </div>
 
     <script src="{{assetsPrefix}}js/main.js"></script>
 </body>
